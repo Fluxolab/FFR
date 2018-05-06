@@ -5,6 +5,19 @@
 
 cmake_minimum_required(VERSION 3.4.1)
 
+include_directories(
+                       src/main/cpp/nxdeps/include
+                       src/main/cpp/NxDevice
+                       src/main/cpp/NxGraphics/Physics/Physx_2.8.4
+                       src/main/cpp/NxGraphics
+                       src/main/cpp/NxSound
+                       src/main/cpp/NxMocap
+                       src/main/cpp/NxNetwork
+                       src/main/cpp/NxVideo
+
+                       )
+
+
 # Creates and names a library, sets it as either STATIC
 # or SHARED, and provides the relative paths to its source code.
 # You can define multiple libraries, and CMake builds them for you.
@@ -26,6 +39,9 @@ add_library( # Sets the name of the library.
 
              # Provides a relative path to your source file(s).
              src/main/cpp/main.cpp )
+
+
+
 
 # Searches for a specified prebuilt library and stores the path as a
 # variable. Because CMake includes system libraries in the search path by

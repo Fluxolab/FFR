@@ -672,7 +672,7 @@ JNIEXPORT void JNICALL Java_com_hotstuff_main_OgreActivityJNI_CreateEngine(JNIEn
     Scene3DPlayer = NxScene3DManager::getSingleton().CreateNx3DScene( Desc );
     Scene3DPlayer->SetViewportColour( NxColourValue(0,0,1,1) );
     Desc.mRenderWindow->GetCustomAttribute( "GLCONTEXT", &context  );
-    LOGD("----> GLCONTEXT id : %d ", (int)context );
+    // BL LOGD("----> GLCONTEXT id : %d ", (int)context );
 
     ModelNode = Scene3DPlayer->CreateNxNode( "TheaterNode" + NxVideoUtils::ToString( 0 ) );
 
