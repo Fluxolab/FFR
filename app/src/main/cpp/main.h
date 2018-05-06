@@ -6,12 +6,12 @@
 #include <jni.h>
 
 
-#include "NxGraphics_Headers.h"
-#include "NxDevice_Headers.h"
-#include "NxSound_Headers.h"
-#include "NxVideo_Headers.h"
-#include "NxMocap_Headers.h"
-#include "NxNetwork_Headers.h"
+#include "NxGraphics/NxGraphics_Headers.h"
+#include "NxDevice/NxDevice_Headers.h"
+#include "NxSound/NxSound_Headers.h"
+#include "NxVideo/NxVideo_Headers.h"
+#include "NxMocap/NxMocap_Headers.h"
+#include "NxNetwork/NxNetwork_Headers.h"
 
 #ifndef _Included_Native
 #define _Included_Native

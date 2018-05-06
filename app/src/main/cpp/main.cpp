@@ -209,6 +209,8 @@ JNIEXPORT jfloat JNICALL Java_com_hotstuff_main_OgreActivityJNI_SetGyroscopeOffs
 
     mGyroscopeOrientationYOsset = value;
     calibrateTrackingDone = false;
+    // BL
+    return 0.0;
 }
 
 // from http://stackoverflow.com/questions/8989686/access-faster-polling-accelerometer-via-nativeactivity-ndk
@@ -1194,7 +1196,8 @@ JNIEXPORT jobjectArray JNICALL  Java_com_hotstuff_main_OgreActivityJNI_CopyFiles
                 fwrite(membuf, nb_read, 1, out);
 
             fclose(out);
-            delete membuf;
+            // BL delete -> delete[]
+            delete[] membuf;
             AAsset_close(asset);
         }//if asset
     }
@@ -1578,6 +1581,8 @@ Nx::Vector2 GetScreenDimensions() {
     QCAR::VideoBackgroundConfig config = QCAR::Renderer::getInstance().getVideoBackgroundConfig();
     size.x = config.mSize.data[0];
     size.y = config.mSize.data[1];
+    // BL
+    return size;
 }
 
 
