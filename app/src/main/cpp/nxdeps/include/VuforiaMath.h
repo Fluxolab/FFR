@@ -1,4 +1,18 @@
+#include "QCAR/QCAR.h"
+#include "QCAR/CameraDevice.h"
+#include "QCAR/Renderer.h"
+#include "QCAR/VideoBackgroundConfig.h"
+#include "QCAR/Trackable.h"
+#include "QCAR/TrackableResult.h"
+#include "QCAR/Tool.h"
+#include "QCAR/Tracker.h"
+#include "QCAR/TrackerManager.h"
+//#include <QCAR5/ImageTracker.h>
+#include "QCAR/CameraCalibration.h"
+#include "QCAR/DataSet.h"
+#include "QCAR/VideoBackgroundTextureInfo.h"
 
+// using namespace QCAR;
 
 QCAR::Matrix44F Matrix44FTranspose(QCAR::Matrix44F m)
 {
