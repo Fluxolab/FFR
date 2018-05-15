@@ -1,0 +1,5 @@
+Done with 3dsmax 2013
+export with ogremax,
+be aware of material file: set self illumination to max
+and remove extra texture units
+copy required files to assets

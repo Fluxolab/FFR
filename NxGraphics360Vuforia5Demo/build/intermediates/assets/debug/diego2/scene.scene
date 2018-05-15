@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scene formatVersion="1.0" upAxis="y" unitsPerMeter="100" minOgreVersion="1.9" ogreMaxVersion="2.6.4" author="OgreMax Scene Exporter (www.ogremax.com)" application="3DS Max">
+    <environment>
+        <colourAmbient r="1" g="1" b="1"/>
+        <colourBackground r="0" g="0" b="0"/>
+        <clipping near="0" far="1024"/>
+    </environment>
+    <nodes>
+        <node name="dagCamera02">
+            <position x="1.80204" y="293.783" z="-43.2304"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="-0.00733946" qy="0.739214" qz="-0.673382" qw="-0.00805698"/>
+            <camera name="dagCamera02" fov="1.80421">
+                <rotation qx="-0.707107" qy="-0" qz="-0" qw="0.707107"/>
+                <clipping near="1" far="1000"/>
+            </camera>
+            <trackTarget nodeName="dagCamera02.Target">
+                <localDirection x="0" y="-1" z="0"/>
+            </trackTarget>
+        </node>
+        <node name="dagCamera02.Target">
+            <position x="65.7189" y="19.8622" z="2888.55"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0.120519" qy="-0.5735" qz="0.0505407" qw="0.808714"/>
+        </node>
+        <node name="screen">
+            <position x="-0.000454426" y="0" z="-0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0" qy="0" qz="0" qw="1"/>
+            <entity name="screen" castShadows="true" receiveShadows="true" meshFile="screen.mesh">
+                <subentities>
+                    <subentity index="0" materialName="screen_mat"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="room2">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="7.45058e-009" qy="1.11759e-008" qz="-7.45058e-009" qw="1"/>
+            <entity name="room2" castShadows="true" receiveShadows="true" meshFile="room2.mesh">
+                <subentities>
+                    <subentity index="0" materialName="wall_right"/>
+                    <subentity index="1" materialName="scene_map_rtt"/>
+                    <subentity index="2" materialName="estrade"/>
+                    <subentity index="3" materialName="Material#53"/>
+                    <subentity index="4" materialName="stairs_bar_top"/>
+                    <subentity index="5" materialName="stairs_front"/>
+                    <subentity index="6" materialName="barre-stairs"/>
+                    <subentity index="7" materialName="balcon"/>
+                    <subentity index="8" materialName="middle_stairs"/>
+                    <subentity index="9" materialName="stairs_rest"/>
+                    <subentity index="10" materialName="right_stairs"/>
+                    <subentity index="11" materialName="left_stairs"/>
+                    <subentity index="12" materialName="barre_stairs"/>
+                    <subentity index="13" materialName="Default"/>
+                    <subentity index="14" materialName="sol"/>
+                    <subentity index="15" materialName="plafond"/>
+                    <subentity index="16" materialName="DefaultStandard"/>
+                    <subentity index="17" materialName="door"/>
+                    <subentity index="18" materialName="top_scene"/>
+                    <subentity index="19" materialName="Material#44"/>
+                    <subentity index="20" materialName="left_wall_piece"/>
+                    <subentity index="21" materialName="left_door"/>
+                    <subentity index="22" materialName="wall_left"/>
+                    <subentity index="23" materialName="Material#71"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="Omni001">
+            <position x="-15.316" y="124.067" z="3021.43"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="0" qy="0" qz="0" qw="1"/>
+            <light name="Omni001" visible="true" affectDiffuse="true" affectSpecular="true" ambientOnly="false" type="point" castShadows="false" power="1">
+                <rotation qx="-0.707107" qy="-0" qz="-0" qw="-0.707107"/>
+                <colourDiffuse r="1" g="1" b="1"/>
+                <colourSpecular r="1" g="1" b="1"/>
+                <lightAttenuation range="200" constant="1" linear="0" quadric="0"/>
+            </light>
+        </node>
+        <node name="room1">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="-1.49012e-008" qy="1.86265e-008" qz="-1.49012e-008" qw="1"/>
+            <entity name="room1" castShadows="true" receiveShadows="true" meshFile="room1.mesh">
+                <subentities>
+                    <subentity index="0" materialName="wall_right"/>
+                    <subentity index="1" materialName="scene_map_rtt"/>
+                    <subentity index="2" materialName="estrade"/>
+                    <subentity index="3" materialName="Material#53"/>
+                    <subentity index="4" materialName="stairs_bar_top"/>
+                    <subentity index="5" materialName="stairs_front"/>
+                    <subentity index="6" materialName="barre-stairs"/>
+                    <subentity index="7" materialName="balcon"/>
+                    <subentity index="8" materialName="middle_stairs"/>
+                    <subentity index="9" materialName="stairs_rest"/>
+                    <subentity index="10" materialName="right_stairs"/>
+                    <subentity index="11" materialName="left_stairs"/>
+                    <subentity index="12" materialName="barre_stairs"/>
+                    <subentity index="13" materialName="Default"/>
+                    <subentity index="14" materialName="sol"/>
+                    <subentity index="15" materialName="plafond"/>
+                    <subentity index="16" materialName="DefaultStandard"/>
+                    <subentity index="17" materialName="door"/>
+                    <subentity index="18" materialName="top_scene"/>
+                    <subentity index="19" materialName="Material#44"/>
+                    <subentity index="20" materialName="left_wall_piece"/>
+                    <subentity index="21" materialName="left_door"/>
+                    <subentity index="22" materialName="wall_left"/>
+                    <subentity index="23" materialName="Material#71"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room1_back_right">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="2.98023e-008" qy="2.28174e-008" qz="-1.39698e-008" qw="1"/>
+            <entity name="chairs_room1_back_right" castShadows="true" receiveShadows="true" meshFile="chairs_room1_back_right.mesh">
+                <subentities>
+                    <subentity index="0" materialName="wall_right"/>
+                    <subentity index="1" materialName="estrade"/>
+                    <subentity index="2" materialName="stairs_rest"/>
+                    <subentity index="3" materialName="right_stairs"/>
+                    <subentity index="4" materialName="left_stairs"/>
+                    <subentity index="5" materialName="left_wall_piece"/>
+                    <subentity index="6" materialName="wall_left"/>
+                    <subentity index="7" materialName="Material#71"/>
+                    <subentity index="8" materialName="Default"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room1_front_right">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="2.98023e-008" qy="1.49012e-008" qz="-8.3819e-009" qw="1"/>
+            <entity name="chairs_room1_front_right" castShadows="true" receiveShadows="true" meshFile="chairs_room1_front_right.mesh">
+                <subentities>
+                    <subentity index="0" materialName="barre_stairs"/>
+                    <subentity index="1" materialName="sol"/>
+                    <subentity index="2" materialName="left_wall_piece"/>
+                    <subentity index="3" materialName="Material#71"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room2_front_right">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="-1.49012e-008" qy="1.86265e-008" qz="-1.49012e-008" qw="1"/>
+            <entity name="chairs_room2_front_right" castShadows="true" receiveShadows="true" meshFile="chairs_room2_front_right.mesh">
+                <subentities>
+                    <subentity index="0" materialName="barre_stairs"/>
+                    <subentity index="1" materialName="sol"/>
+                    <subentity index="2" materialName="Material#71"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room2_back_right">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="-1.49012e-008" qy="1.86265e-008" qz="-1.49012e-008" qw="1"/>
+            <entity name="chairs_room2_back_right" castShadows="true" receiveShadows="true" meshFile="chairs_room2_back_right.mesh">
+                <subentities>
+                    <subentity index="0" materialName="estrade"/>
+                    <subentity index="1" materialName="Material#71"/>
+                    <subentity index="2" materialName="Default"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room1_back_left">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="2.98023e-008" qy="1.49012e-008" qz="-8.3819e-009" qw="1"/>
+            <entity name="chairs_room1_back_left" castShadows="true" receiveShadows="true" meshFile="chairs_room1_back_left.mesh">
+                <subentities>
+                    <subentity index="0" materialName="wall_right"/>
+                    <subentity index="1" materialName="estrade"/>
+                    <subentity index="2" materialName="middle_stairs"/>
+                    <subentity index="3" materialName="right_stairs"/>
+                    <subentity index="4" materialName="Material#71"/>
+                    <subentity index="5" materialName="Default"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room1_front_left">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="2.98023e-008" qy="4.42378e-009" qz="-7.45058e-009" qw="1"/>
+            <entity name="chairs_room1_front_left" castShadows="true" receiveShadows="true" meshFile="chairs_room1_front_left.mesh">
+                <subentities>
+                    <subentity index="0" materialName="barre_stairs"/>
+                    <subentity index="1" materialName="sol"/>
+                    <subentity index="2" materialName="Material#71"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room2_back_left">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="2.98023e-008" qy="2.28174e-008" qz="-1.39698e-008" qw="1"/>
+            <entity name="chairs_room2_back_left" castShadows="true" receiveShadows="true" meshFile="chairs_room2_back_left.mesh">
+                <subentities>
+                    <subentity index="0" materialName="estrade"/>
+                    <subentity index="1" materialName="sol"/>
+                    <subentity index="2" materialName="Material#71"/>
+                    <subentity index="3" materialName="Default"/>
+                </subentities>
+            </entity>
+        </node>
+        <node name="chairs_room2_front_left">
+            <position x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <rotation qx="2.98023e-008" qy="2.28174e-008" qz="-1.39698e-008" qw="1"/>
+            <entity name="chairs_room2_front_left" castShadows="true" receiveShadows="true" meshFile="chairs_room2_front_left.mesh">
+                <subentities>
+                    <subentity index="0" materialName="wall_right"/>
+                    <subentity index="1" materialName="stairs_rest"/>
+                    <subentity index="2" materialName="right_stairs"/>
+                    <subentity index="3" materialName="barre_stairs"/>
+                    <subentity index="4" materialName="sol"/>
+                    <subentity index="5" materialName="door"/>
+                    <subentity index="6" materialName="Material#71"/>
+                </subentities>
+            </entity>
+        </node>
+    </nodes>
+</scene>

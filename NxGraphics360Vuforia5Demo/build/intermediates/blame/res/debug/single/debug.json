@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_layer.xml.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_camera_button_background.xml.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_radio_button.xml.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_pressed.png.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_camera_button_background.xml.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\camera_button_background.xml"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_divider.xml.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_pressed.png.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\icon_camera_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_layer.xml.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_divider.xml.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group.xml.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay_udt.xml.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\camera_overlay_udt.xml"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group.xml.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_normal.png.flat",
+        "source": "C:\\FFR_AndroidStudio_Project\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay_udt.xml.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\camera_overlay_udt.xml"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\drawable_icon_camera_normal.png.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\drawable\\icon_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_radio_button.xml.flat",
+        "source": "C:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    }
+]

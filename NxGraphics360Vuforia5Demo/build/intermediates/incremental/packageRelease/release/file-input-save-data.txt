@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon May 07 14:47:56 PDT 2018
+1.base=C\:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+2.path=lib/armeabi-v7a/libNxGraphics.so
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\stephane\\Desktop\\Diego\\compile\\NxGraphics\\NxGraphicsSdk\\NxSamples\\new\\NxGraphics360Vuforia5Demo\\build\\intermediates\\transforms\\dex\\release\\0
+2.baseType=DIRECTORY
+1.path=lib/armeabi-v7a/libVuforia.so

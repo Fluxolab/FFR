@@ -1,0 +1,509 @@
+material balcon
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture balcon.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material barre-stairs
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture stairs_barre.jpg
+			}
+
+		 
+		}
+
+	}
+
+}
+
+
+material barre_stairs
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture barre_stairs.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material Default
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture light.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material DefaultStandard
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture mur_fond.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material door
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture rightdoor.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material estrade
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture estrade.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material left_door
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture left_door.jpg
+			}
+
+		 
+		}
+
+	}
+
+}
+
+
+material left_stairs
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture left_stairs.jpg
+			}
+
+		 
+		}
+
+	}
+
+}
+
+
+material left_wall_piece
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture left_wall_piece.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material Material#44
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture screen_pilier.jpg
+			}
+ 
+		}
+
+	}
+
+}
+
+
+material Material#53
+{
+	technique
+	{
+		pass
+		{
+		}
+
+	}
+
+}
+
+
+material Material#71
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.8 0.8 0.8 1
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture chair.jpg
+			}
+
+		 
+		}
+
+	}
+
+}
+
+
+material middle_stairs
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture "middle stairs.jpg"
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material plafond
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture plafond.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material right_stairs
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture right_stairs.jpg
+			}
+ 
+		}
+
+	}
+
+}
+
+
+material scene_map_rtt
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture ecran_contourCompleteMap.jpg
+			}
+
+		 
+		}
+
+	}
+
+}
+
+
+material screen_mat
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			 
+		}
+
+	}
+
+}
+
+
+material sol
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture sol.jpg
+			}
+
+		 
+		}
+
+	}
+
+}
+
+
+material stairs_bar_top
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture stairs_bar_top.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material stairs_front
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture stair_front.jpg
+			}
+
+		 
+		}
+
+	}
+
+}
+
+
+material stairs_rest
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture stairs_rest.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material top_scene
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture top_scene.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material wall_left
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture wallleft.jpg
+			}
+
+			 
+		}
+
+	}
+
+}
+
+
+material wall_right
+{
+	technique
+	{
+		pass
+		{
+			emissive 1 1 1 1
+
+			texture_unit
+			{
+				texture wallright.jpg
+			}
+
+			 
+		}
+
+	}
+
+}

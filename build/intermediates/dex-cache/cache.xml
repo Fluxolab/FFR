@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\stephane\Desktop\Diego\compile\NxGraphics\NxGraphicsSdk\NxSamples\new\NxGraphics360Vuforia5Demo\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="C:\Users\stephane\Desktop\Diego\compile\NxGraphics\NxGraphicsSdk\NxSamples\new\NxGraphics360Vuforia5Demo\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>
