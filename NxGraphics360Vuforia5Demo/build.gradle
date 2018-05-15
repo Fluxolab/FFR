@@ -31,5 +31,5 @@ android {
 }
 
 dependencies {
-    compile files('libs/Vuforia.jar')
+    implementation files('libs/Vuforia.jar')
 }
