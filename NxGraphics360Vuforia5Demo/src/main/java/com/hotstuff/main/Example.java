@@ -141,7 +141,7 @@ import android.widget.Toast;
 public class Example extends Activity implements SensorEventListener, VuforiaControl, VuforiaMenuInterface
 {
 	// defaults for first install
- 	String ipServer = "192.168.1.15";
+ 	String ipServer = "192.168.0.18";
 	String markerName = "Stones";
 	String splashName = "NxLogo.jpg";
 	float thresholdDistance = 700.0f;

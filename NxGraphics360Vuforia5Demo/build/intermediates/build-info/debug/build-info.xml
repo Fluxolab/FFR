@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1526352864754"
+    timestamp="1526354666205"
     token="-6676705411134436404"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -69,7 +69,16 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1526352864754"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1526354586572"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\SophiaDigitalArt\FFR\NxGraphics360Vuforia5Demo\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1526354666205"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

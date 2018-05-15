@@ -1,157 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e7d70032-25ef-46b1-9df5-4389372f7456" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__FFR_AndroidStudio_Project_NxGraphics360Vuforia5Demo_libs_Vuforia_jar_unspecified_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/NxGraphics360Vuforia5Demo.iml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/NxGraphics360Vuforia5Demo.iml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Lw4rnstbccy8sMgcnLcpzGt_78Y=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/Lw4rnstbccy8sMgcnLcpzGt_78Y=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/output.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/output.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/debug/output.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/debug/output.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/output.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/output.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_camera_button_background.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_camera_button_background.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_icon.png.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_icon.png.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_icon_camera_normal.png.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_icon_camera_normal.png.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_icon_camera_pressed.png.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/drawable_icon_camera_pressed.png.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_camera_overlay_udt.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_camera_overlay_udt.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_group.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_group.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_group_divider.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_group_divider.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_group_radio_button.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_group_radio_button.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_layer.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_layer.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/values_values.arsc.flat" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/AbstractURLHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/ApacheURLLister.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/BasicURLHandler$HttpStatus.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/BasicURLHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/CopyProgressEvent.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/CopyProgressListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/Credentials.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/CredentialsStore.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/FileUtil.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/IvyAuthenticator.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/URLHandler$URLInfo.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/URLHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/apache/ivy/URLHandlerRegistry.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/BuildConfig.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/DownloadFilesTask$DownloadCallback.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/DownloadFilesTask$DownloadFilesTaskMethod.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/DownloadFilesTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$10$1$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$10$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$10.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$11$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$11.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$12.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$13.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$14.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$2.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$3$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$3.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$4$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$4.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$5.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$6.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$7.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$8.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$9.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$GestureListener$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$GestureListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$PreviewCallback.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$TakePictureTask$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example$TakePictureTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/Example.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/FileChooser$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/FileChooser$2.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/FileChooser$3.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/FileChooser$4.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/FileChooser$FileSelectedListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/FileChooser.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/NxFileUploader.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/NxVideoSurfaceView$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/NxVideoSurfaceView$VideoRender.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/NxVideoSurfaceView.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/OgreActivityJNI.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R$color.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R$dimen.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R$drawable.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R$id.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R$layout.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R$string.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R$style.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/R.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaControl.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaExceptions.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaFreeframe$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaFreeframe$STATUS.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaFreeframe.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaFreeframeGL$TEXTURE_NAME.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaFreeframeGL.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaGlView$ConfigChooser.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaGlView$ContextFactory.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaGlView.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaLoadingDialogHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenu$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenu$GestureListener$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenu$GestureListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenu.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenuAnimator.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenuGroup$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenuGroup$2.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenuGroup.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenuInterface.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMenuView.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMesh.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMeshObject$BUFFER_TYPE.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaMeshObject.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaSession$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaSession$InitVuforiaTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaSession$LoadTrackerTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaSession.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaShaders.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaTargetRenderer.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaTeapot$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaTeapot.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaTexture.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/hotstuff/main/VuforiaUtils.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/6.jar" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/build-info/debug/build-info.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_3.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example.dex" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -173,22 +43,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="102">
+              <caret line="142" column="33" lean-forward="false" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -199,6 +59,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>compile</find>
+      <find>192.168</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -2238,6 +2099,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" />
+        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
       </list>
     </option>
   </component>
@@ -2262,20 +2124,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
-              <item name="NxGraphics360Vuforia5Demo" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
-              <item name="NxGraphics360Vuforia5Demo" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
             <path>
               <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -2284,8 +2138,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2476,36 +2329,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16066837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2517194" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1600257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2517194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2516,6 +2370,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2536,6 +2398,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -2548,10 +2417,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle">
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/assets/Stones.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/assets/boot/NxLogo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="142" column="33" lean-forward="false" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
           <folding />
         </state>
       </provider>
