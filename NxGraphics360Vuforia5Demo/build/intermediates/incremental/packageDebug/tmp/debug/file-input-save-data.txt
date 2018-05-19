@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 15 04:43:04 CEST 2018
+#Fri May 18 19:59:46 CEST 2018
 60.set=ASSET
 52.set=ASSET
 53.base=C\:\\SophiaDigitalArt\\FFR\\NxGraphics360Vuforia5Demo\\build\\intermediates\\assets\\debug

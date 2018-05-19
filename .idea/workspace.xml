@@ -7,21 +7,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7d70032-25ef-46b1-9df5-4389372f7456" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/NxGraphics360Vuforia5Demo.iml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/NxGraphics360Vuforia5Demo.iml" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/build-info/debug/build-info.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-apk/debug/NxGraphics360Vuforia5Demo-debug.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-apk/debug/NxGraphics360Vuforia5Demo-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_layer.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_layer.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/resources/instant-run/debug/resources-debug.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/resources/instant-run/debug/resources-debug.apk" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_3.apk" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example.dex" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example.class" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example.class" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_4.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_5.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,13 +59,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="142" column="33" lean-forward="false" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
+            <state relative-caret-position="92">
+              <caret line="2347" column="0" lean-forward="false" selection-start-line="2347" selection-start-column="0" selection-end-line="2347" selection-end-column="0" />
+              <folding>
+                <element signature="e#8555#8563#0" expanded="true" />
+                <element signature="e#8626#8634#0" expanded="true" />
+                <element signature="e#8851#8866#0" expanded="true" />
+                <element signature="e#8918#8926#0" expanded="true" />
+                <element signature="e#8971#8977#0" expanded="true" />
+                <element signature="e#14474#14655#0" expanded="true" />
+                <element signature="e#14654#14655#0" expanded="true" />
+                <element signature="e#20269#20460#0" expanded="true" />
+                <element signature="e#20459#20460#0" expanded="true" />
+                <element signature="e#21571#22777#0" expanded="true" />
+                <element signature="e#21736#22745#0" expanded="true" />
+                <element signature="e#22744#22745#0" expanded="true" />
+                <element signature="e#22776#22777#0" expanded="true" />
+                <element signature="e#23912#24783#0" expanded="true" />
+                <element signature="e#24077#24751#0" expanded="true" />
+                <element signature="e#24750#24751#0" expanded="true" />
+                <element signature="e#24782#24783#0" expanded="true" />
+                <element signature="e#25863#26016#0" expanded="true" />
+                <element signature="e#26015#26016#0" expanded="true" />
+                <element signature="e#26613#27177#0" expanded="true" />
+                <element signature="e#27176#27177#0" expanded="true" />
+                <element signature="e#27302#28422#0" expanded="true" />
+                <element signature="e#28421#28422#0" expanded="true" />
+                <element signature="e#28469#28626#0" expanded="true" />
+                <element signature="e#28625#28626#0" expanded="true" />
+                <element signature="e#28674#28811#0" expanded="true" />
+                <element signature="e#28810#28811#0" expanded="true" />
+                <element signature="e#31577#31585#0" expanded="true" />
+                <element signature="e#31955#31963#0" expanded="true" />
+                <element signature="e#43357#49397#0" expanded="true" />
+                <element signature="e#43458#49350#0" expanded="true" />
+                <element signature="e#47124#47130#0" expanded="true" />
+                <element signature="e#47365#47670#0" expanded="true" />
+                <element signature="e#47669#47670#0" expanded="true" />
+                <element signature="e#49349#49350#0" expanded="true" />
+                <element signature="e#49396#49397#0" expanded="true" />
+                <element signature="e#50155#50251#0" expanded="true" />
+                <element signature="e#50250#50251#0" expanded="true" />
+                <element signature="e#52075#52515#0" expanded="true" />
+                <element signature="e#52514#52515#0" expanded="true" />
+                <element signature="e#53374#53560#0" expanded="true" />
+                <element signature="e#53559#53560#0" expanded="true" />
+                <element signature="e#53642#53671#0" expanded="true" />
+                <element signature="e#53723#53769#0" expanded="true" />
+                <element signature="e#53806#53851#0" expanded="true" />
+                <element signature="e#54118#54245#0" expanded="true" />
+                <element signature="e#54244#54245#0" expanded="true" />
+                <element signature="e#73395#73538#0" expanded="true" />
+                <element signature="e#73537#73538#0" expanded="true" />
+                <element signature="e#78936#78965#0" expanded="true" />
+                <element signature="e#78993#79021#0" expanded="true" />
+                <element signature="e#79104#79133#0" expanded="true" />
+                <element signature="e#79165#79193#0" expanded="true" />
+                <element signature="e#79714#79762#0" expanded="true" />
+                <element signature="e#79833#79881#0" expanded="true" />
+                <element signature="e#80310#80357#0" expanded="true" />
+                <element signature="e#80428#80475#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VuforiaSession.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="450" column="9" lean-forward="false" selection-start-line="450" selection-start-column="9" selection-end-line="450" selection-end-column="9" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_app_menu_layer.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="34" />
+              <folding>
+                <element signature="e#939#966#0" expanded="true" />
+                <element signature="e#1062#1081#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -60,7 +159,11 @@
     <findStrings>
       <find>compile</find>
       <find>192.168</find>
+      <find>com.qualcomm.vuforia.samples.VuforiaSamples</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\SophiaDigitalArt\FFR\NxGraphics360Vuforia5Demo</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2100,10 +2203,11 @@
       <list>
         <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" />
         <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
+        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="131" />
     <option name="y" value="31" />
     <option name="width" value="1061" />
@@ -2124,12 +2228,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
+            <path>
+              <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
+              <item name="NxGraphics360Vuforia5Demo" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
+              <item name="NxGraphics360Vuforia5Demo" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
+              <item name="NxGraphics360Vuforia5Demo" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
+              <item name="NxGraphics360Vuforia5Demo" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="FFR" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -2138,7 +2261,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2196,7 +2322,7 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -2328,16 +2454,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2345,13 +2472,14 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1600257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2517194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19023137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29160935" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41127923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2359,14 +2487,23 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java</url>
+          <line>1768</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -2374,7 +2511,263 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#8555#8563#0" expanded="true" />
+            <element signature="e#8626#8634#0" expanded="true" />
+            <element signature="e#8851#8866#0" expanded="true" />
+            <element signature="e#8918#8926#0" expanded="true" />
+            <element signature="e#8971#8977#0" expanded="true" />
+            <element signature="e#14474#14655#0" expanded="true" />
+            <element signature="e#14654#14655#0" expanded="true" />
+            <element signature="e#20269#20460#0" expanded="true" />
+            <element signature="e#20459#20460#0" expanded="true" />
+            <element signature="e#21571#22777#0" expanded="true" />
+            <element signature="e#21736#22745#0" expanded="true" />
+            <element signature="e#22744#22745#0" expanded="true" />
+            <element signature="e#22776#22777#0" expanded="true" />
+            <element signature="e#23912#24783#0" expanded="true" />
+            <element signature="e#24077#24751#0" expanded="true" />
+            <element signature="e#24750#24751#0" expanded="true" />
+            <element signature="e#24782#24783#0" expanded="true" />
+            <element signature="e#25863#26016#0" expanded="true" />
+            <element signature="e#26015#26016#0" expanded="true" />
+            <element signature="e#26613#27177#0" expanded="true" />
+            <element signature="e#27176#27177#0" expanded="true" />
+            <element signature="e#27302#28422#0" expanded="true" />
+            <element signature="e#28421#28422#0" expanded="true" />
+            <element signature="e#28469#28626#0" expanded="true" />
+            <element signature="e#28625#28626#0" expanded="true" />
+            <element signature="e#28674#28811#0" expanded="true" />
+            <element signature="e#28810#28811#0" expanded="true" />
+            <element signature="e#31577#31585#0" expanded="true" />
+            <element signature="e#31955#31963#0" expanded="true" />
+            <element signature="e#43357#49397#0" expanded="true" />
+            <element signature="e#43458#49350#0" expanded="true" />
+            <element signature="e#47124#47130#0" expanded="true" />
+            <element signature="e#47365#47670#0" expanded="true" />
+            <element signature="e#47669#47670#0" expanded="true" />
+            <element signature="e#49349#49350#0" expanded="true" />
+            <element signature="e#49396#49397#0" expanded="true" />
+            <element signature="e#50155#50251#0" expanded="true" />
+            <element signature="e#50250#50251#0" expanded="true" />
+            <element signature="e#52075#52515#0" expanded="true" />
+            <element signature="e#52514#52515#0" expanded="true" />
+            <element signature="e#53374#53560#0" expanded="true" />
+            <element signature="e#53559#53560#0" expanded="true" />
+            <element signature="e#53642#53671#0" expanded="true" />
+            <element signature="e#53723#53769#0" expanded="true" />
+            <element signature="e#53806#53851#0" expanded="true" />
+            <element signature="e#54118#54245#0" expanded="true" />
+            <element signature="e#54244#54245#0" expanded="true" />
+            <element signature="e#73395#73538#0" expanded="true" />
+            <element signature="e#73537#73538#0" expanded="true" />
+            <element signature="e#78936#78965#0" expanded="true" />
+            <element signature="e#78993#79021#0" expanded="true" />
+            <element signature="e#79104#79133#0" expanded="true" />
+            <element signature="e#79165#79193#0" expanded="true" />
+            <element signature="e#79714#79762#0" expanded="true" />
+            <element signature="e#79833#79881#0" expanded="true" />
+            <element signature="e#80310#80357#0" expanded="true" />
+            <element signature="e#80428#80475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#8555#8563#0" expanded="true" />
+            <element signature="e#8626#8634#0" expanded="true" />
+            <element signature="e#8851#8866#0" expanded="true" />
+            <element signature="e#8918#8926#0" expanded="true" />
+            <element signature="e#8971#8977#0" expanded="true" />
+            <element signature="e#14474#14655#0" expanded="true" />
+            <element signature="e#14654#14655#0" expanded="true" />
+            <element signature="e#20269#20460#0" expanded="true" />
+            <element signature="e#20459#20460#0" expanded="true" />
+            <element signature="e#21571#22777#0" expanded="true" />
+            <element signature="e#21736#22745#0" expanded="true" />
+            <element signature="e#22744#22745#0" expanded="true" />
+            <element signature="e#22776#22777#0" expanded="true" />
+            <element signature="e#23912#24783#0" expanded="true" />
+            <element signature="e#24077#24751#0" expanded="true" />
+            <element signature="e#24750#24751#0" expanded="true" />
+            <element signature="e#24782#24783#0" expanded="true" />
+            <element signature="e#25863#26016#0" expanded="true" />
+            <element signature="e#26015#26016#0" expanded="true" />
+            <element signature="e#26613#27177#0" expanded="true" />
+            <element signature="e#27176#27177#0" expanded="true" />
+            <element signature="e#27302#28422#0" expanded="true" />
+            <element signature="e#28421#28422#0" expanded="true" />
+            <element signature="e#28469#28626#0" expanded="true" />
+            <element signature="e#28625#28626#0" expanded="true" />
+            <element signature="e#28674#28811#0" expanded="true" />
+            <element signature="e#28810#28811#0" expanded="true" />
+            <element signature="e#31577#31585#0" expanded="true" />
+            <element signature="e#31955#31963#0" expanded="true" />
+            <element signature="e#43357#49397#0" expanded="true" />
+            <element signature="e#43458#49350#0" expanded="true" />
+            <element signature="e#47124#47130#0" expanded="true" />
+            <element signature="e#47365#47670#0" expanded="true" />
+            <element signature="e#47669#47670#0" expanded="true" />
+            <element signature="e#49349#49350#0" expanded="true" />
+            <element signature="e#49396#49397#0" expanded="true" />
+            <element signature="e#50155#50251#0" expanded="true" />
+            <element signature="e#50250#50251#0" expanded="true" />
+            <element signature="e#52075#52515#0" expanded="true" />
+            <element signature="e#52514#52515#0" expanded="true" />
+            <element signature="e#53374#53560#0" expanded="true" />
+            <element signature="e#53559#53560#0" expanded="true" />
+            <element signature="e#53642#53671#0" expanded="true" />
+            <element signature="e#53723#53769#0" expanded="true" />
+            <element signature="e#53806#53851#0" expanded="true" />
+            <element signature="e#54118#54245#0" expanded="true" />
+            <element signature="e#54244#54245#0" expanded="true" />
+            <element signature="e#73395#73538#0" expanded="true" />
+            <element signature="e#73537#73538#0" expanded="true" />
+            <element signature="e#78936#78965#0" expanded="true" />
+            <element signature="e#78993#79021#0" expanded="true" />
+            <element signature="e#79104#79133#0" expanded="true" />
+            <element signature="e#79165#79193#0" expanded="true" />
+            <element signature="e#79714#79762#0" expanded="true" />
+            <element signature="e#79833#79881#0" expanded="true" />
+            <element signature="e#80310#80357#0" expanded="true" />
+            <element signature="e#80428#80475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#8555#8563#0" expanded="true" />
+            <element signature="e#8626#8634#0" expanded="true" />
+            <element signature="e#8851#8866#0" expanded="true" />
+            <element signature="e#8918#8926#0" expanded="true" />
+            <element signature="e#8971#8977#0" expanded="true" />
+            <element signature="e#14474#14655#0" expanded="true" />
+            <element signature="e#14654#14655#0" expanded="true" />
+            <element signature="e#20269#20460#0" expanded="true" />
+            <element signature="e#20459#20460#0" expanded="true" />
+            <element signature="e#21571#22777#0" expanded="true" />
+            <element signature="e#21736#22745#0" expanded="true" />
+            <element signature="e#22744#22745#0" expanded="true" />
+            <element signature="e#22776#22777#0" expanded="true" />
+            <element signature="e#23912#24783#0" expanded="true" />
+            <element signature="e#24077#24751#0" expanded="true" />
+            <element signature="e#24750#24751#0" expanded="true" />
+            <element signature="e#24782#24783#0" expanded="true" />
+            <element signature="e#25863#26016#0" expanded="true" />
+            <element signature="e#26015#26016#0" expanded="true" />
+            <element signature="e#26613#27177#0" expanded="true" />
+            <element signature="e#27176#27177#0" expanded="true" />
+            <element signature="e#27302#28422#0" expanded="true" />
+            <element signature="e#28421#28422#0" expanded="true" />
+            <element signature="e#28469#28626#0" expanded="true" />
+            <element signature="e#28625#28626#0" expanded="true" />
+            <element signature="e#28674#28811#0" expanded="true" />
+            <element signature="e#28810#28811#0" expanded="true" />
+            <element signature="e#31577#31585#0" expanded="true" />
+            <element signature="e#31955#31963#0" expanded="true" />
+            <element signature="e#43357#49397#0" expanded="true" />
+            <element signature="e#43458#49350#0" expanded="true" />
+            <element signature="e#47124#47130#0" expanded="true" />
+            <element signature="e#47365#47670#0" expanded="true" />
+            <element signature="e#47669#47670#0" expanded="true" />
+            <element signature="e#49349#49350#0" expanded="true" />
+            <element signature="e#49396#49397#0" expanded="true" />
+            <element signature="e#50155#50251#0" expanded="true" />
+            <element signature="e#50250#50251#0" expanded="true" />
+            <element signature="e#52075#52515#0" expanded="true" />
+            <element signature="e#52514#52515#0" expanded="true" />
+            <element signature="e#53374#53560#0" expanded="true" />
+            <element signature="e#53559#53560#0" expanded="true" />
+            <element signature="e#53642#53671#0" expanded="true" />
+            <element signature="e#53723#53769#0" expanded="true" />
+            <element signature="e#53806#53851#0" expanded="true" />
+            <element signature="e#54118#54245#0" expanded="true" />
+            <element signature="e#54244#54245#0" expanded="true" />
+            <element signature="e#73395#73538#0" expanded="true" />
+            <element signature="e#73537#73538#0" expanded="true" />
+            <element signature="e#78936#78965#0" expanded="true" />
+            <element signature="e#78993#79021#0" expanded="true" />
+            <element signature="e#79104#79133#0" expanded="true" />
+            <element signature="e#79165#79193#0" expanded="true" />
+            <element signature="e#79714#79762#0" expanded="true" />
+            <element signature="e#79833#79881#0" expanded="true" />
+            <element signature="e#80310#80357#0" expanded="true" />
+            <element signature="e#80428#80475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#8555#8563#0" expanded="true" />
+            <element signature="e#8626#8634#0" expanded="true" />
+            <element signature="e#8851#8866#0" expanded="true" />
+            <element signature="e#8918#8926#0" expanded="true" />
+            <element signature="e#8971#8977#0" expanded="true" />
+            <element signature="e#14474#14655#0" expanded="true" />
+            <element signature="e#14654#14655#0" expanded="true" />
+            <element signature="e#20269#20460#0" expanded="true" />
+            <element signature="e#20459#20460#0" expanded="true" />
+            <element signature="e#21571#22777#0" expanded="true" />
+            <element signature="e#21736#22745#0" expanded="true" />
+            <element signature="e#22744#22745#0" expanded="true" />
+            <element signature="e#22776#22777#0" expanded="true" />
+            <element signature="e#23912#24783#0" expanded="true" />
+            <element signature="e#24077#24751#0" expanded="true" />
+            <element signature="e#24750#24751#0" expanded="true" />
+            <element signature="e#24782#24783#0" expanded="true" />
+            <element signature="e#25863#26016#0" expanded="true" />
+            <element signature="e#26015#26016#0" expanded="true" />
+            <element signature="e#26613#27177#0" expanded="true" />
+            <element signature="e#27176#27177#0" expanded="true" />
+            <element signature="e#27302#28422#0" expanded="true" />
+            <element signature="e#28421#28422#0" expanded="true" />
+            <element signature="e#28469#28626#0" expanded="true" />
+            <element signature="e#28625#28626#0" expanded="true" />
+            <element signature="e#28674#28811#0" expanded="true" />
+            <element signature="e#28810#28811#0" expanded="true" />
+            <element signature="e#31577#31585#0" expanded="true" />
+            <element signature="e#31955#31963#0" expanded="true" />
+            <element signature="e#43357#49397#0" expanded="true" />
+            <element signature="e#43458#49350#0" expanded="true" />
+            <element signature="e#47124#47130#0" expanded="true" />
+            <element signature="e#47365#47670#0" expanded="true" />
+            <element signature="e#47669#47670#0" expanded="true" />
+            <element signature="e#49349#49350#0" expanded="true" />
+            <element signature="e#49396#49397#0" expanded="true" />
+            <element signature="e#50155#50251#0" expanded="true" />
+            <element signature="e#50250#50251#0" expanded="true" />
+            <element signature="e#52075#52515#0" expanded="true" />
+            <element signature="e#52514#52515#0" expanded="true" />
+            <element signature="e#53374#53560#0" expanded="true" />
+            <element signature="e#53559#53560#0" expanded="true" />
+            <element signature="e#53642#53671#0" expanded="true" />
+            <element signature="e#53723#53769#0" expanded="true" />
+            <element signature="e#53806#53851#0" expanded="true" />
+            <element signature="e#54118#54245#0" expanded="true" />
+            <element signature="e#54244#54245#0" expanded="true" />
+            <element signature="e#73395#73538#0" expanded="true" />
+            <element signature="e#73537#73538#0" expanded="true" />
+            <element signature="e#78936#78965#0" expanded="true" />
+            <element signature="e#78993#79021#0" expanded="true" />
+            <element signature="e#79104#79133#0" expanded="true" />
+            <element signature="e#79165#79193#0" expanded="true" />
+            <element signature="e#79714#79762#0" expanded="true" />
+            <element signature="e#79833#79881#0" expanded="true" />
+            <element signature="e#80310#80357#0" expanded="true" />
+            <element signature="e#80428#80475#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2382,7 +2775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2429,12 +2821,120 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/app/Instrumentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1082" column="0" lean-forward="false" selection-start-line="1082" selection-start-column="0" selection-end-line="1082" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/app/ActivityThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="2833" column="21" lean-forward="true" selection-start-line="2833" selection-start-column="21" selection-end-line="2833" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="142" column="33" lean-forward="false" selection-start-line="142" selection-start-column="33" selection-end-line="142" selection-end-column="33" />
+        <state relative-caret-position="92">
+          <caret line="2347" column="0" lean-forward="false" selection-start-line="2347" selection-start-column="0" selection-end-line="2347" selection-end-column="0" />
+          <folding>
+            <element signature="e#8555#8563#0" expanded="true" />
+            <element signature="e#8626#8634#0" expanded="true" />
+            <element signature="e#8851#8866#0" expanded="true" />
+            <element signature="e#8918#8926#0" expanded="true" />
+            <element signature="e#8971#8977#0" expanded="true" />
+            <element signature="e#14474#14655#0" expanded="true" />
+            <element signature="e#14654#14655#0" expanded="true" />
+            <element signature="e#20269#20460#0" expanded="true" />
+            <element signature="e#20459#20460#0" expanded="true" />
+            <element signature="e#21571#22777#0" expanded="true" />
+            <element signature="e#21736#22745#0" expanded="true" />
+            <element signature="e#22744#22745#0" expanded="true" />
+            <element signature="e#22776#22777#0" expanded="true" />
+            <element signature="e#23912#24783#0" expanded="true" />
+            <element signature="e#24077#24751#0" expanded="true" />
+            <element signature="e#24750#24751#0" expanded="true" />
+            <element signature="e#24782#24783#0" expanded="true" />
+            <element signature="e#25863#26016#0" expanded="true" />
+            <element signature="e#26015#26016#0" expanded="true" />
+            <element signature="e#26613#27177#0" expanded="true" />
+            <element signature="e#27176#27177#0" expanded="true" />
+            <element signature="e#27302#28422#0" expanded="true" />
+            <element signature="e#28421#28422#0" expanded="true" />
+            <element signature="e#28469#28626#0" expanded="true" />
+            <element signature="e#28625#28626#0" expanded="true" />
+            <element signature="e#28674#28811#0" expanded="true" />
+            <element signature="e#28810#28811#0" expanded="true" />
+            <element signature="e#31577#31585#0" expanded="true" />
+            <element signature="e#31955#31963#0" expanded="true" />
+            <element signature="e#43357#49397#0" expanded="true" />
+            <element signature="e#43458#49350#0" expanded="true" />
+            <element signature="e#47124#47130#0" expanded="true" />
+            <element signature="e#47365#47670#0" expanded="true" />
+            <element signature="e#47669#47670#0" expanded="true" />
+            <element signature="e#49349#49350#0" expanded="true" />
+            <element signature="e#49396#49397#0" expanded="true" />
+            <element signature="e#50155#50251#0" expanded="true" />
+            <element signature="e#50250#50251#0" expanded="true" />
+            <element signature="e#52075#52515#0" expanded="true" />
+            <element signature="e#52514#52515#0" expanded="true" />
+            <element signature="e#53374#53560#0" expanded="true" />
+            <element signature="e#53559#53560#0" expanded="true" />
+            <element signature="e#53642#53671#0" expanded="true" />
+            <element signature="e#53723#53769#0" expanded="true" />
+            <element signature="e#53806#53851#0" expanded="true" />
+            <element signature="e#54118#54245#0" expanded="true" />
+            <element signature="e#54244#54245#0" expanded="true" />
+            <element signature="e#73395#73538#0" expanded="true" />
+            <element signature="e#73537#73538#0" expanded="true" />
+            <element signature="e#78936#78965#0" expanded="true" />
+            <element signature="e#78993#79021#0" expanded="true" />
+            <element signature="e#79104#79133#0" expanded="true" />
+            <element signature="e#79165#79193#0" expanded="true" />
+            <element signature="e#79714#79762#0" expanded="true" />
+            <element signature="e#79833#79881#0" expanded="true" />
+            <element signature="e#80310#80357#0" expanded="true" />
+            <element signature="e#80428#80475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="450" column="9" lean-forward="false" selection-start-line="450" selection-start-column="9" selection-end-line="450" selection-end-column="9" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <element signature="e#939#966#0" expanded="true" />
+            <element signature="e#1062#1081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>
