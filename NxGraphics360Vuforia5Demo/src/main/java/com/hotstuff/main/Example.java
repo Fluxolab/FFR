@@ -2294,11 +2294,6 @@ public void DebugTextureFormatState( State state ){
             // Sets the layout background to transparent
             mUILayout.setBackgroundColor(Color.TRANSPARENT);
 
-
-
-
-
-
             try
             {
                 vuforiaAppSession.startAR(CameraDevice.CAMERA.CAMERA_BACK ); 
@@ -2307,9 +2302,7 @@ public void DebugTextureFormatState( State state ){
             	Log.e(LOGTAG,  "onInitARDone(VuforiaExceptions exception) --->  vuforiaAppSession.startAR EEROR " );
                 Log.e(LOGTAG, e.getString());
             }
-            
-            
-            
+
             VideoBackgroundConfig config = Renderer.getInstance().getVideoBackgroundConfig();
                 
             DisplayMetrics metrics = new DisplayMetrics();
@@ -2509,29 +2502,13 @@ public void DebugTextureFormatState( State state ){
         group.addImageItem("", -60);
         group.addImageItem("", -70);*/
 
-
-
-
-
-
-
-
-
         group.getMenuLayout().setBackgroundColor(Color.BLACK);
-
-
-
-
 
         //group.addSelectionItem( "HELLO", CMD_EXTENDED_TRACKING, false);
         
        // group = mSampleAppMenu.addGroup("sdfsdfsdfsd", true);
       //  group.addSelectionItem( "HELLO", CMD_EXTENDED_TRACKING, false);
 
-
-
-
-        
         //group = mSampleAppMenu.addGroup("", false);
         //group.addTextItem(getString(R.string.menu_back), -1);
         /*
@@ -2563,9 +2540,7 @@ public void DebugTextureFormatState( State state ){
         }*/
         
         mSampleAppMenu.attachMenu();
-        
-         
-        
+
         Log.d(LOGTAG, " setSampleAppMenuSettings . : OK ");
     }	
 	
@@ -2609,8 +2584,7 @@ public void DebugTextureFormatState( State state ){
 	        	//Toast.makeText(this, "other 4", Toast.LENGTH_LONG ).show();
 	        	//OgreActivityJNI.OpenTheoraVideo(mVideoFiles.get(0));
 	        break;		        
-	        
-	        
+
 	            case CMD_BACK:
 	                finish();
 	                break;
@@ -2743,10 +2717,7 @@ public void DebugTextureFormatState( State state ){
 	    {
 	        Toast.makeText(this, text, Toast.LENGTH_SHORT).show();
 	    }	
-	    
- 
-	
-	
+
     static 
     {
     	System.loadLibrary("Vuforia");

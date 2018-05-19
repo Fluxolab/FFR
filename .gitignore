@@ -5,6 +5,7 @@
 /.idea/modules.xml
 /.idea/workspace.xml
 .DS_Store
-/build
+build
+NxGraphics360Vuforia5Demo/build
 /captures
 .externalNativeBuild
