@@ -23,8 +23,7 @@
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
         android:label="NxGraphics360Vuforia5Demo"
-        android:launchMode="singleTask"
-        android:testOnly="true" >
+        android:launchMode="singleTask" >
         <activity
             android:name="com.hotstuff.main.Example"
             android:configChanges="orientation"

@@ -104,9 +104,9 @@ public class VuforiaMenu
      
      TextView title = (TextView) mMovableListView.findViewById(R.id.settings_menu_title);
      
-     title.setText( "[ World Cup AR ]" );
+     title.setText( "[ FFR AR ]" );
      title.setTextSize( 10.0f );
-     title.setBackgroundColor( Color.BLACK );
+     title.setBackgroundColor( Color.GREEN );
      title.setTextColor(  Color.WHITE );
      
      mMovableView.setVisibility(View.VISIBLE);
@@ -190,7 +190,7 @@ public class VuforiaMenu
          }
      } else {
          // added by BL 20180519: force menu display
-         showMenu();
+         //showMenu();
      }
      
      return result;
@@ -330,18 +330,18 @@ public class VuforiaMenu
     	 
     	 LinearLayout lay = group.getMenuLayout();
          mMovableListView.addView( lay );
-    	 //HERE MENU .. cose crashes on nexus...
+    	 //HERE MENU .. cause crashes on nexus...
      }
+     // BL force
+     View newView = new View(mActivity);
+     newView.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
+     newView.setBackgroundColor(Color.YELLOW);
      
-    // View newView = new View(mActivity);
-    // newView.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
-    // newView.setBackgroundColor(Color.BLACK);
      
-     
-     //mMovableListView.addView(newView);
-     hide();
-     setMenuDisplaying(false);
-     
+     mMovableListView.addView(newView);
+     // BL force hide();
+     // BL force setMenuDisplaying(false);
+     setMenuDisplaying(true);
  }
  
  
@@ -470,7 +470,7 @@ public class VuforiaMenu
      public boolean onDoubleTap( MotionEvent e ) {
  
     	 //showDialog();
-    	 
+    	 /* BL force
     	 if( !Example.useLeftMenu ) return true;
          if (!isMenuDisplaying()) {
              if (!mIsBelowICS) {
@@ -479,6 +479,12 @@ public class VuforiaMenu
                  setAnimationX(mMaxXSwipe);
                  setMenuDisplaying(true);
              }
+         }*/
+         if (!mIsBelowICS) {
+             startViewsAnimation(true);
+         } else {
+             setAnimationX(mMaxXSwipe);
+             setMenuDisplaying(true);
          }
          return true;
      }

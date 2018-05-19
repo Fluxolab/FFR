@@ -2501,7 +2501,7 @@ public void DebugTextureFormatState( State state ){
     	
         VuforiaMenuGroup group;
         
-        group = mSampleAppMenu.addGroup("", false);
+        group = mSampleAppMenu.addGroup("group", false);
         /* BL */
         group.addImageItem("image", -20);
         group.addImageItem("", -30);
