@@ -14,8 +14,8 @@ android {
 
     defaultConfig {
         applicationId "com.hotstuff.main"
-        minSdkVersion 9
-        targetSdkVersion 9
+        minSdkVersion 11
+        targetSdkVersion 11
 
         ndk {
             moduleName "nxdevice"

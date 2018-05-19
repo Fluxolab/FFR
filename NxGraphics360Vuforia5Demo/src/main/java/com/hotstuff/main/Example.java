@@ -1994,10 +1994,16 @@ public void DebugTextureFormatState( State state ){
     @Override
     public boolean onTouchEvent(MotionEvent event)
     {
+    	if (mSampleAppMenu == null) Log.d(LOGTAG, "mSampleAppMenu is null");
+
         // Process the Gestures
-        if (mSampleAppMenu != null && mSampleAppMenu.processEvent(event))
-            return true;
-        
+        if (mSampleAppMenu != null && mSampleAppMenu.processEvent(event)) {
+			if (mSampleAppMenu == null) Log.d(LOGTAG, "mSampleAppMenu processEvent");
+			return true;
+		} else {
+            // BL to remove
+            //ShowDialog();
+        }
         return mGestureDetector.onTouchEvent(event);
     } 
     
@@ -2293,12 +2299,7 @@ public void DebugTextureFormatState( State state ){
             
             // Sets the layout background to transparent
             mUILayout.setBackgroundColor(Color.TRANSPARENT);
-            
-            
-                 
-            
-            
-            
+
             try
             {
                 vuforiaAppSession.startAR(CameraDevice.CAMERA.CAMERA_BACK ); 
@@ -2501,40 +2502,24 @@ public void DebugTextureFormatState( State state ){
         VuforiaMenuGroup group;
         
         group = mSampleAppMenu.addGroup("", false);
-        /*
-        group.addImageItem("", -20);
+        /* BL */
+        group.addImageItem("image", -20);
         group.addImageItem("", -30);
         group.addImageItem("", -40);
         group.addImageItem("", -50);
         group.addImageItem("", -60);
-        group.addImageItem("", -70);*/
+        group.addImageItem("", -70);
+
+        group.getMenuLayout().setBackgroundColor(Color.RED);
+
+        group.addSelectionItem( "HELLO", CMD_EXTENDED_TRACKING, false);
         
+        group = mSampleAppMenu.addGroup("sdfsdfsdfsd", true);
+        group.addSelectionItem( "HELLO", CMD_EXTENDED_TRACKING, false);
         
-        
-  
-        
-        
- 
-        
-        
-        group.getMenuLayout().setBackgroundColor(Color.BLACK);
-        
-        
-    
-        
-        
-        //group.addSelectionItem( "HELLO", CMD_EXTENDED_TRACKING, false);
-        
-       // group = mSampleAppMenu.addGroup("sdfsdfsdfsd", true);
-      //  group.addSelectionItem( "HELLO", CMD_EXTENDED_TRACKING, false);
-        
-         
-        
-        
-        
-        //group = mSampleAppMenu.addGroup("", false);
-        //group.addTextItem(getString(R.string.menu_back), -1);
-        /*
+        group = mSampleAppMenu.addGroup("", false);
+        group.addTextItem(getString(R.string.menu_back), -1);
+
         group = mSampleAppMenu.addGroup("", true);
         group.addSelectionItem(getString(R.string.menu_extended_tracking), CMD_EXTENDED_TRACKING, false);
         group.addSelectionItem(getString(R.string.menu_contAutofocus), CMD_AUTOFOCUS, mContAutofocus);
@@ -2560,7 +2545,7 @@ public void DebugTextureFormatState( State state ){
             group = mSampleAppMenu.addGroup(getString(R.string.menu_camera), true);
             group.addRadioItem(getString(R.string.menu_camera_front), CMD_CAMERA_FRONT, false);
             group.addRadioItem(getString(R.string.menu_camera_back), CMD_CAMERA_REAR, true);
-        }*/
+        }
         
         mSampleAppMenu.attachMenu();
         
@@ -2588,23 +2573,23 @@ public void DebugTextureFormatState( State state ){
 	        	OgreActivityJNI.OpenTheoraVideo(mVideoFiles.get(1));
 	        break;	
 	        case -40:
-	        	Toast.makeText(this, "Comming soon !", Toast.LENGTH_LONG ).show();
+	        	Toast.makeText(this, "Coming soon !", Toast.LENGTH_LONG ).show();
 	        	//OgreActivityJNI.OpenTheoraVideo(mVideoFiles.get(2));
 	        break;
 	        case -50:
-	        	Toast.makeText(this, "Comming soon !", Toast.LENGTH_LONG ).show();
+	        	Toast.makeText(this, "Coming soon !", Toast.LENGTH_LONG ).show();
 	        	//ShowDialog();
 	        	//Toast.makeText(this, "other 4", Toast.LENGTH_LONG ).show();
 	        	//OgreActivityJNI.OpenTheoraVideo(mVideoFiles.get(0));
 	        break;	 
 	        case -60:
-	        	Toast.makeText(this, "Comming soon !", Toast.LENGTH_LONG ).show();
+	        	Toast.makeText(this, "Coming soon !", Toast.LENGTH_LONG ).show();
 	        	//ShowDialog();
 	        	//Toast.makeText(this, "other 4", Toast.LENGTH_LONG ).show();
 	        	//OgreActivityJNI.OpenTheoraVideo(mVideoFiles.get(0));
 	        break;	
 	        case -70:
-	        	Toast.makeText(this, "Comming soon !", Toast.LENGTH_LONG ).show();
+	        	Toast.makeText(this, "Coming soon !", Toast.LENGTH_LONG ).show();
 	        	//ShowDialog();
 	        	//Toast.makeText(this, "other 4", Toast.LENGTH_LONG ).show();
 	        	//OgreActivityJNI.OpenTheoraVideo(mVideoFiles.get(0));

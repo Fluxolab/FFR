@@ -5,11 +5,29 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e7d70032-25ef-46b1-9df5-4389372f7456" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/NxGraphics360Vuforia5Demo.iml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/NxGraphics360Vuforia5Demo.iml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/build-info/debug/build-info.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example$14.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example$14.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/NxFileUploader.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/NxFileUploader.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$14.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$14.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/NxFileUploader.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/NxFileUploader.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu$GestureListener.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu.class" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" />
@@ -22,21 +40,66 @@
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/_BV6dE5gk+11yVJyjvaqsNnycCo=" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/_BV6dE5gk+11yVJyjvaqsNnycCo=" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/166EXGbJVm+lwEW70DML1xf7Kfw=" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/166EXGbJVm+lwEW70DML1xf7Kfw=" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-apk/debug/NxGraphics360Vuforia5Demo-debug.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-apk/debug/NxGraphics360Vuforia5Demo-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-main-apk-res/debug/main_resources/resources_ap" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-main-apk-res/debug/main_resources/resources_ap" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest-checker/debug/manifest.crc" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest-checker/debug/manifest.crc" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest-checker/debug/manifest.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest-checker/debug/manifest.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/output.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/output.json" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/debug/output.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/debug/output.json" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/output.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/output.json" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_layer.xml.flat" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/debug/layout_sample_app_menu_layer.xml.flat" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/resources/instant-run/debug/resources-debug.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/resources/instant-run/debug/resources-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/resources/AndroidManifest.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/resources/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_1.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_2.apk" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_3.apk" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_4.apk" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_5.apk" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_7.apk" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/0.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/1.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$14.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$14.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/NxFileUploader.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/NxFileUploader.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu$GestureListener$1.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu$GestureListener$1.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu$GestureListener.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu$GestureListener.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/2.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/4.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/5.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/6.jar" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$14.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$14.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/NxFileUploader.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/NxFileUploader.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu$GestureListener.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$14.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$14.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/NxFileUploader.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/NxFileUploader.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/NxFileUploader.java" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/NxFileUploader.java" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,108 +121,260 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="2347" column="0" lean-forward="false" selection-start-line="2347" selection-start-column="0" selection-end-line="2347" selection-end-column="0" />
-              <folding>
-                <element signature="e#8555#8563#0" expanded="true" />
-                <element signature="e#8626#8634#0" expanded="true" />
-                <element signature="e#8851#8866#0" expanded="true" />
-                <element signature="e#8918#8926#0" expanded="true" />
-                <element signature="e#8971#8977#0" expanded="true" />
-                <element signature="e#14474#14655#0" expanded="true" />
-                <element signature="e#14654#14655#0" expanded="true" />
-                <element signature="e#20269#20460#0" expanded="true" />
-                <element signature="e#20459#20460#0" expanded="true" />
-                <element signature="e#21571#22777#0" expanded="true" />
-                <element signature="e#21736#22745#0" expanded="true" />
-                <element signature="e#22744#22745#0" expanded="true" />
-                <element signature="e#22776#22777#0" expanded="true" />
-                <element signature="e#23912#24783#0" expanded="true" />
-                <element signature="e#24077#24751#0" expanded="true" />
-                <element signature="e#24750#24751#0" expanded="true" />
-                <element signature="e#24782#24783#0" expanded="true" />
-                <element signature="e#25863#26016#0" expanded="true" />
-                <element signature="e#26015#26016#0" expanded="true" />
-                <element signature="e#26613#27177#0" expanded="true" />
-                <element signature="e#27176#27177#0" expanded="true" />
-                <element signature="e#27302#28422#0" expanded="true" />
-                <element signature="e#28421#28422#0" expanded="true" />
-                <element signature="e#28469#28626#0" expanded="true" />
-                <element signature="e#28625#28626#0" expanded="true" />
-                <element signature="e#28674#28811#0" expanded="true" />
-                <element signature="e#28810#28811#0" expanded="true" />
-                <element signature="e#31577#31585#0" expanded="true" />
-                <element signature="e#31955#31963#0" expanded="true" />
-                <element signature="e#43357#49397#0" expanded="true" />
-                <element signature="e#43458#49350#0" expanded="true" />
-                <element signature="e#47124#47130#0" expanded="true" />
-                <element signature="e#47365#47670#0" expanded="true" />
-                <element signature="e#47669#47670#0" expanded="true" />
-                <element signature="e#49349#49350#0" expanded="true" />
-                <element signature="e#49396#49397#0" expanded="true" />
-                <element signature="e#50155#50251#0" expanded="true" />
-                <element signature="e#50250#50251#0" expanded="true" />
-                <element signature="e#52075#52515#0" expanded="true" />
-                <element signature="e#52514#52515#0" expanded="true" />
-                <element signature="e#53374#53560#0" expanded="true" />
-                <element signature="e#53559#53560#0" expanded="true" />
-                <element signature="e#53642#53671#0" expanded="true" />
-                <element signature="e#53723#53769#0" expanded="true" />
-                <element signature="e#53806#53851#0" expanded="true" />
-                <element signature="e#54118#54245#0" expanded="true" />
-                <element signature="e#54244#54245#0" expanded="true" />
-                <element signature="e#73395#73538#0" expanded="true" />
-                <element signature="e#73537#73538#0" expanded="true" />
-                <element signature="e#78936#78965#0" expanded="true" />
-                <element signature="e#78993#79021#0" expanded="true" />
-                <element signature="e#79104#79133#0" expanded="true" />
-                <element signature="e#79165#79193#0" expanded="true" />
-                <element signature="e#79714#79762#0" expanded="true" />
-                <element signature="e#79833#79881#0" expanded="true" />
-                <element signature="e#80310#80357#0" expanded="true" />
-                <element signature="e#80428#80475#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VuforiaSession.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaSession.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="450" column="9" lean-forward="false" selection-start-line="450" selection-start-column="9" selection-end-line="450" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample_app_menu_layer.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="34" />
-              <folding>
-                <element signature="e#939#966#0" expanded="true" />
-                <element signature="e#1062#1081#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.33174604">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="2462" column="0" lean-forward="false" selection-start-line="2462" selection-start-column="0" selection-end-line="2462" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#8555#8563#0" expanded="true" />
+                    <element signature="e#8626#8634#0" expanded="true" />
+                    <element signature="e#8851#8866#0" expanded="true" />
+                    <element signature="e#8918#8926#0" expanded="true" />
+                    <element signature="e#8971#8977#0" expanded="true" />
+                    <element signature="e#14474#14655#0" expanded="true" />
+                    <element signature="e#14654#14655#0" expanded="true" />
+                    <element signature="e#20269#20460#0" expanded="true" />
+                    <element signature="e#20459#20460#0" expanded="true" />
+                    <element signature="e#21571#22777#0" expanded="true" />
+                    <element signature="e#21736#22745#0" expanded="true" />
+                    <element signature="e#22744#22745#0" expanded="true" />
+                    <element signature="e#22776#22777#0" expanded="true" />
+                    <element signature="e#23912#24783#0" expanded="true" />
+                    <element signature="e#24077#24751#0" expanded="true" />
+                    <element signature="e#24750#24751#0" expanded="true" />
+                    <element signature="e#24782#24783#0" expanded="true" />
+                    <element signature="e#25863#26016#0" expanded="true" />
+                    <element signature="e#26015#26016#0" expanded="true" />
+                    <element signature="e#26613#27177#0" expanded="true" />
+                    <element signature="e#27176#27177#0" expanded="true" />
+                    <element signature="e#27302#28422#0" expanded="true" />
+                    <element signature="e#28421#28422#0" expanded="true" />
+                    <element signature="e#28469#28626#0" expanded="true" />
+                    <element signature="e#28625#28626#0" expanded="true" />
+                    <element signature="e#28674#28811#0" expanded="true" />
+                    <element signature="e#28810#28811#0" expanded="true" />
+                    <element signature="e#31577#31585#0" expanded="true" />
+                    <element signature="e#31955#31963#0" expanded="true" />
+                    <element signature="e#43357#49397#0" expanded="true" />
+                    <element signature="e#43458#49350#0" expanded="true" />
+                    <element signature="e#47124#47130#0" expanded="true" />
+                    <element signature="e#47365#47670#0" expanded="true" />
+                    <element signature="e#47669#47670#0" expanded="true" />
+                    <element signature="e#49349#49350#0" expanded="true" />
+                    <element signature="e#49396#49397#0" expanded="true" />
+                    <element signature="e#50155#50251#0" expanded="true" />
+                    <element signature="e#50250#50251#0" expanded="true" />
+                    <element signature="e#52075#52515#0" expanded="true" />
+                    <element signature="e#52514#52515#0" expanded="true" />
+                    <element signature="e#53374#53560#0" expanded="true" />
+                    <element signature="e#53559#53560#0" expanded="true" />
+                    <element signature="e#53642#53671#0" expanded="true" />
+                    <element signature="e#53723#53769#0" expanded="true" />
+                    <element signature="e#53806#53851#0" expanded="true" />
+                    <element signature="e#54118#54245#0" expanded="true" />
+                    <element signature="e#54244#54245#0" expanded="true" />
+                    <element signature="e#73526#73669#0" expanded="true" />
+                    <element signature="e#73668#73669#0" expanded="true" />
+                    <element signature="e#75390#75419#0" expanded="true" />
+                    <element signature="e#75509#75551#0" expanded="true" />
+                    <element signature="e#75615#75653#0" expanded="true" />
+                    <element signature="e#75738#75768#0" expanded="true" />
+                    <element signature="e#76598#76629#0" expanded="true" />
+                    <element signature="e#76669#76706#0" expanded="true" />
+                    <element signature="e#76765#76801#0" expanded="true" />
+                    <element signature="e#78904#78933#0" expanded="true" />
+                    <element signature="e#78961#78989#0" expanded="true" />
+                    <element signature="e#79072#79101#0" expanded="true" />
+                    <element signature="e#79133#79161#0" expanded="true" />
+                    <element signature="e#79682#79730#0" expanded="true" />
+                    <element signature="e#79801#79849#0" expanded="true" />
+                    <element signature="e#80278#80325#0" expanded="true" />
+                    <element signature="e#80396#80443#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Activity.java" pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/app/Activity.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="123">
+                  <caret line="3386" column="0" lean-forward="false" selection-start-line="3386" selection-start-column="0" selection-end-line="3386" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DecorView.java" pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/com/android/internal/policy/DecorView.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="378">
+                  <caret line="561" column="0" lean-forward="false" selection-start-line="561" selection-start-column="0" selection-end-line="561" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="VuforiaMenu.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="296" column="6" lean-forward="false" selection-start-line="296" selection-start-column="6" selection-end-line="296" selection-end-column="6" />
+                  <folding>
+                    <element signature="e#7197#7198#0" expanded="true" />
+                    <element signature="e#7231#7232#0" expanded="true" />
+                    <element signature="e#7273#7274#0" expanded="true" />
+                    <element signature="e#7310#7311#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/AndroidManifest.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+              <provider editor-type-id="android-manifest">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/build.gradle">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="NxFileUploader.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/NxFileUploader.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="174">
+                  <caret line="116" column="27" lean-forward="false" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="2529" column="29" lean-forward="true" selection-start-line="2529" selection-start-column="29" selection-end-line="2529" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#8555#8563#0" expanded="true" />
+                    <element signature="e#8626#8634#0" expanded="true" />
+                    <element signature="e#8851#8866#0" expanded="true" />
+                    <element signature="e#8918#8926#0" expanded="true" />
+                    <element signature="e#8971#8977#0" expanded="true" />
+                    <element signature="e#14474#14655#0" expanded="true" />
+                    <element signature="e#14654#14655#0" expanded="true" />
+                    <element signature="e#20269#20460#0" expanded="true" />
+                    <element signature="e#20459#20460#0" expanded="true" />
+                    <element signature="e#21571#22777#0" expanded="true" />
+                    <element signature="e#21736#22745#0" expanded="true" />
+                    <element signature="e#22744#22745#0" expanded="true" />
+                    <element signature="e#22776#22777#0" expanded="true" />
+                    <element signature="e#23912#24783#0" expanded="true" />
+                    <element signature="e#24077#24751#0" expanded="true" />
+                    <element signature="e#24750#24751#0" expanded="true" />
+                    <element signature="e#24782#24783#0" expanded="true" />
+                    <element signature="e#25863#26016#0" expanded="true" />
+                    <element signature="e#26015#26016#0" expanded="true" />
+                    <element signature="e#26613#27177#0" expanded="true" />
+                    <element signature="e#27176#27177#0" expanded="true" />
+                    <element signature="e#27302#28422#0" expanded="true" />
+                    <element signature="e#28421#28422#0" expanded="true" />
+                    <element signature="e#28469#28626#0" expanded="true" />
+                    <element signature="e#28625#28626#0" expanded="true" />
+                    <element signature="e#28674#28811#0" expanded="true" />
+                    <element signature="e#28810#28811#0" expanded="true" />
+                    <element signature="e#31577#31585#0" expanded="true" />
+                    <element signature="e#31955#31963#0" expanded="true" />
+                    <element signature="e#43357#49397#0" expanded="true" />
+                    <element signature="e#43458#49350#0" expanded="true" />
+                    <element signature="e#47124#47130#0" expanded="true" />
+                    <element signature="e#47365#47670#0" expanded="true" />
+                    <element signature="e#47669#47670#0" expanded="true" />
+                    <element signature="e#49349#49350#0" expanded="true" />
+                    <element signature="e#49396#49397#0" expanded="true" />
+                    <element signature="e#50155#50251#0" expanded="true" />
+                    <element signature="e#50250#50251#0" expanded="true" />
+                    <element signature="e#52075#52515#0" expanded="true" />
+                    <element signature="e#52514#52515#0" expanded="true" />
+                    <element signature="e#53374#53560#0" expanded="true" />
+                    <element signature="e#53559#53560#0" expanded="true" />
+                    <element signature="e#53642#53671#0" expanded="true" />
+                    <element signature="e#53723#53769#0" expanded="true" />
+                    <element signature="e#53806#53851#0" expanded="true" />
+                    <element signature="e#54118#54245#0" expanded="true" />
+                    <element signature="e#54244#54245#0" expanded="true" />
+                    <element signature="e#73526#73669#0" expanded="true" />
+                    <element signature="e#73668#73669#0" expanded="true" />
+                    <element signature="e#75390#75419#0" expanded="true" />
+                    <element signature="e#75509#75551#0" expanded="true" />
+                    <element signature="e#75615#75653#0" expanded="true" />
+                    <element signature="e#75738#75768#0" expanded="true" />
+                    <element signature="e#76598#76629#0" expanded="true" />
+                    <element signature="e#76669#76706#0" expanded="true" />
+                    <element signature="e#76765#76801#0" expanded="true" />
+                    <element signature="e#78904#78933#0" expanded="true" />
+                    <element signature="e#78961#78989#0" expanded="true" />
+                    <element signature="e#79072#79101#0" expanded="true" />
+                    <element signature="e#79133#79161#0" expanded="true" />
+                    <element signature="e#79682#79730#0" expanded="true" />
+                    <element signature="e#79801#79849#0" expanded="true" />
+                    <element signature="e#80278#80325#0" expanded="true" />
+                    <element signature="e#80396#80443#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>compile</find>
       <find>192.168</find>
       <find>com.qualcomm.vuforia.samples.VuforiaSamples</find>
+      <find>com.hotstuff.main.VuforiaMenuView</find>
+      <find>mMedia</find>
+      <find>Unable to bind video background texture</find>
+      <find>DownloadFilesTask</find>
+      <find>VuforiaControl</find>
+      <find>mSampleAppMenu</find>
+      <find>ViewPostIme</find>
+      <find>Dialoge</find>
+      <find>gestu</find>
+      <find>ShowDialog</find>
     </findStrings>
     <dirStrings>
       <dir>C:\SophiaDigitalArt\FFR\NxGraphics360Vuforia5Demo</dir>
@@ -2201,13 +2416,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" />
-        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
         <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml" />
+        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java" />
+        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle" />
+        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/NxFileUploader.java" />
+        <option value="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="131" />
     <option name="y" value="31" />
     <option name="width" value="1061" />
@@ -2454,7 +2671,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2464,11 +2681,11 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8514443" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2479,7 +2696,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41127923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18156809" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2495,16 +2712,71 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java</url>
           <line>1768</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java</url>
+          <line>1721</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/DownloadFilesTask.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/DownloadFilesTask.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/DownloadFilesTask.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/DownloadFilesTask.java</url>
+          <line>167</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/DownloadFilesTask.java</url>
+          <line>179</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java</url>
+          <line>2142</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java</url>
+          <line>2563</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="34" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="NxGraphics360Vuforia5Demo">
+        <watch expression="conf" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
@@ -2559,16 +2831,23 @@
             <element signature="e#53806#53851#0" expanded="true" />
             <element signature="e#54118#54245#0" expanded="true" />
             <element signature="e#54244#54245#0" expanded="true" />
-            <element signature="e#73395#73538#0" expanded="true" />
-            <element signature="e#73537#73538#0" expanded="true" />
-            <element signature="e#78936#78965#0" expanded="true" />
-            <element signature="e#78993#79021#0" expanded="true" />
-            <element signature="e#79104#79133#0" expanded="true" />
-            <element signature="e#79165#79193#0" expanded="true" />
-            <element signature="e#79714#79762#0" expanded="true" />
-            <element signature="e#79833#79881#0" expanded="true" />
-            <element signature="e#80310#80357#0" expanded="true" />
-            <element signature="e#80428#80475#0" expanded="true" />
+            <element signature="e#73526#73669#0" expanded="true" />
+            <element signature="e#73668#73669#0" expanded="true" />
+            <element signature="e#75390#75419#0" expanded="true" />
+            <element signature="e#75509#75551#0" expanded="true" />
+            <element signature="e#75615#75653#0" expanded="true" />
+            <element signature="e#75738#75768#0" expanded="true" />
+            <element signature="e#76598#76629#0" expanded="true" />
+            <element signature="e#76669#76706#0" expanded="true" />
+            <element signature="e#76765#76801#0" expanded="true" />
+            <element signature="e#78904#78933#0" expanded="true" />
+            <element signature="e#78961#78989#0" expanded="true" />
+            <element signature="e#79072#79101#0" expanded="true" />
+            <element signature="e#79133#79161#0" expanded="true" />
+            <element signature="e#79682#79730#0" expanded="true" />
+            <element signature="e#79801#79849#0" expanded="true" />
+            <element signature="e#80278#80325#0" expanded="true" />
+            <element signature="e#80396#80443#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2625,16 +2904,23 @@
             <element signature="e#53806#53851#0" expanded="true" />
             <element signature="e#54118#54245#0" expanded="true" />
             <element signature="e#54244#54245#0" expanded="true" />
-            <element signature="e#73395#73538#0" expanded="true" />
-            <element signature="e#73537#73538#0" expanded="true" />
-            <element signature="e#78936#78965#0" expanded="true" />
-            <element signature="e#78993#79021#0" expanded="true" />
-            <element signature="e#79104#79133#0" expanded="true" />
-            <element signature="e#79165#79193#0" expanded="true" />
-            <element signature="e#79714#79762#0" expanded="true" />
-            <element signature="e#79833#79881#0" expanded="true" />
-            <element signature="e#80310#80357#0" expanded="true" />
-            <element signature="e#80428#80475#0" expanded="true" />
+            <element signature="e#73526#73669#0" expanded="true" />
+            <element signature="e#73668#73669#0" expanded="true" />
+            <element signature="e#75390#75419#0" expanded="true" />
+            <element signature="e#75509#75551#0" expanded="true" />
+            <element signature="e#75615#75653#0" expanded="true" />
+            <element signature="e#75738#75768#0" expanded="true" />
+            <element signature="e#76598#76629#0" expanded="true" />
+            <element signature="e#76669#76706#0" expanded="true" />
+            <element signature="e#76765#76801#0" expanded="true" />
+            <element signature="e#78904#78933#0" expanded="true" />
+            <element signature="e#78961#78989#0" expanded="true" />
+            <element signature="e#79072#79101#0" expanded="true" />
+            <element signature="e#79133#79161#0" expanded="true" />
+            <element signature="e#79682#79730#0" expanded="true" />
+            <element signature="e#79801#79849#0" expanded="true" />
+            <element signature="e#80278#80325#0" expanded="true" />
+            <element signature="e#80396#80443#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2691,16 +2977,23 @@
             <element signature="e#53806#53851#0" expanded="true" />
             <element signature="e#54118#54245#0" expanded="true" />
             <element signature="e#54244#54245#0" expanded="true" />
-            <element signature="e#73395#73538#0" expanded="true" />
-            <element signature="e#73537#73538#0" expanded="true" />
-            <element signature="e#78936#78965#0" expanded="true" />
-            <element signature="e#78993#79021#0" expanded="true" />
-            <element signature="e#79104#79133#0" expanded="true" />
-            <element signature="e#79165#79193#0" expanded="true" />
-            <element signature="e#79714#79762#0" expanded="true" />
-            <element signature="e#79833#79881#0" expanded="true" />
-            <element signature="e#80310#80357#0" expanded="true" />
-            <element signature="e#80428#80475#0" expanded="true" />
+            <element signature="e#73526#73669#0" expanded="true" />
+            <element signature="e#73668#73669#0" expanded="true" />
+            <element signature="e#75390#75419#0" expanded="true" />
+            <element signature="e#75509#75551#0" expanded="true" />
+            <element signature="e#75615#75653#0" expanded="true" />
+            <element signature="e#75738#75768#0" expanded="true" />
+            <element signature="e#76598#76629#0" expanded="true" />
+            <element signature="e#76669#76706#0" expanded="true" />
+            <element signature="e#76765#76801#0" expanded="true" />
+            <element signature="e#78904#78933#0" expanded="true" />
+            <element signature="e#78961#78989#0" expanded="true" />
+            <element signature="e#79072#79101#0" expanded="true" />
+            <element signature="e#79133#79161#0" expanded="true" />
+            <element signature="e#79682#79730#0" expanded="true" />
+            <element signature="e#79801#79849#0" expanded="true" />
+            <element signature="e#80278#80325#0" expanded="true" />
+            <element signature="e#80396#80443#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2757,16 +3050,23 @@
             <element signature="e#53806#53851#0" expanded="true" />
             <element signature="e#54118#54245#0" expanded="true" />
             <element signature="e#54244#54245#0" expanded="true" />
-            <element signature="e#73395#73538#0" expanded="true" />
-            <element signature="e#73537#73538#0" expanded="true" />
-            <element signature="e#78936#78965#0" expanded="true" />
-            <element signature="e#78993#79021#0" expanded="true" />
-            <element signature="e#79104#79133#0" expanded="true" />
-            <element signature="e#79165#79193#0" expanded="true" />
-            <element signature="e#79714#79762#0" expanded="true" />
-            <element signature="e#79833#79881#0" expanded="true" />
-            <element signature="e#80310#80357#0" expanded="true" />
-            <element signature="e#80428#80475#0" expanded="true" />
+            <element signature="e#73526#73669#0" expanded="true" />
+            <element signature="e#73668#73669#0" expanded="true" />
+            <element signature="e#75390#75419#0" expanded="true" />
+            <element signature="e#75509#75551#0" expanded="true" />
+            <element signature="e#75615#75653#0" expanded="true" />
+            <element signature="e#75738#75768#0" expanded="true" />
+            <element signature="e#76598#76629#0" expanded="true" />
+            <element signature="e#76669#76706#0" expanded="true" />
+            <element signature="e#76765#76801#0" expanded="true" />
+            <element signature="e#78904#78933#0" expanded="true" />
+            <element signature="e#78961#78989#0" expanded="true" />
+            <element signature="e#79072#79101#0" expanded="true" />
+            <element signature="e#79133#79161#0" expanded="true" />
+            <element signature="e#79682#79730#0" expanded="true" />
+            <element signature="e#79801#79849#0" expanded="true" />
+            <element signature="e#80278#80325#0" expanded="true" />
+            <element signature="e#80396#80443#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2775,6 +3075,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2790,22 +3091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2825,6 +3110,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="1082" column="0" lean-forward="false" selection-start-line="1082" selection-start-column="0" selection-end-line="1082" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2832,27 +3118,228 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="2833" column="21" lean-forward="true" selection-start-line="2833" selection-start-column="21" selection-end-line="2833" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/os/Handler.java">
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        <state relative-caret-position="-380">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <element signature="e#939#966#0" expanded="false" />
+            <element signature="e#1062#1081#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/apache/ivy/BasicURLHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="221" column="0" lean-forward="false" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/DownloadFilesTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7191">
+          <caret line="451" column="0" lean-forward="false" selection-start-line="451" selection-start-column="0" selection-end-line="451" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/view/SurfaceView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="719" column="0" lean-forward="false" selection-start-line="719" selection-start-column="0" selection-end-line="719" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenuAnimator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenuGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/libs/Vuforia.jar!/com/qualcomm/vuforia/VideoBackgroundConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <marker date="1525732261542" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525732261542" expanded="true" signature="304:380" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="443:498" ph="{...}" />
+            <marker date="1525732261542" expanded="false" signature="529:540" ph=" { " />
+            <marker date="1525732261542" expanded="false" signature="554:560" ph=" }" />
+            <marker date="1525732261542" expanded="true" signature="603:853" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="893:1092" ph="{...}" />
+            <marker date="1525732261542" expanded="false" signature="1128:1139" ph=" { " />
+            <marker date="1525732261542" expanded="false" signature="1190:1196" ph=" }" />
+            <marker date="1525732261542" expanded="true" signature="1240:1329" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="1363:1452" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="1495:1607" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="1640:1794" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="1833:1941" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="1970:2120" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="2163:2255" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="2288:2380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/libs/Vuforia.jar!/com/qualcomm/vuforia/VuforiaJNI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="935" column="47" lean-forward="false" selection-start-line="935" selection-start-column="47" selection-end-line="935" selection-end-column="47" />
+          <folding>
+            <marker date="1525732261542" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525732261542" expanded="true" signature="202:209" ph="{}" />
+            <marker date="1525732261542" expanded="true" signature="267:746" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="49734:49794" ph="{...}" />
+            <marker date="1525732261542" expanded="true" signature="49865:49978" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenuInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/os/Looper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="173" column="66" lean-forward="false" selection-start-line="173" selection-start-column="66" selection-end-line="173" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/os/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/os/AsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="717" column="0" lean-forward="false" selection-start-line="717" selection-start-column="0" selection-end-line="717" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="493" column="0" lean-forward="false" selection-start-line="493" selection-start-column="0" selection-end-line="493" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="296" column="6" lean-forward="false" selection-start-line="296" selection-start-column="6" selection-end-line="296" selection-end-column="6" />
+          <folding>
+            <element signature="e#7197#7198#0" expanded="true" />
+            <element signature="e#7231#7232#0" expanded="true" />
+            <element signature="e#7273#7274#0" expanded="true" />
+            <element signature="e#7310#7311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/NxFileUploader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="116" column="27" lean-forward="false" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="3386" column="0" lean-forward="false" selection-start-line="3386" selection-start-column="0" selection-end-line="3386" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-26/com/android/internal/policy/DecorView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="561" column="0" lean-forward="false" selection-start-line="561" selection-start-column="0" selection-end-line="561" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="2347" column="0" lean-forward="false" selection-start-line="2347" selection-start-column="0" selection-end-line="2347" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="2529" column="29" lean-forward="true" selection-start-line="2529" selection-start-column="29" selection-end-line="2529" selection-end-column="29" />
           <folding>
             <element signature="e#8555#8563#0" expanded="true" />
             <element signature="e#8626#8634#0" expanded="true" />
@@ -2901,40 +3388,25 @@
             <element signature="e#53806#53851#0" expanded="true" />
             <element signature="e#54118#54245#0" expanded="true" />
             <element signature="e#54244#54245#0" expanded="true" />
-            <element signature="e#73395#73538#0" expanded="true" />
-            <element signature="e#73537#73538#0" expanded="true" />
-            <element signature="e#78936#78965#0" expanded="true" />
-            <element signature="e#78993#79021#0" expanded="true" />
-            <element signature="e#79104#79133#0" expanded="true" />
-            <element signature="e#79165#79193#0" expanded="true" />
-            <element signature="e#79714#79762#0" expanded="true" />
-            <element signature="e#79833#79881#0" expanded="true" />
-            <element signature="e#80310#80357#0" expanded="true" />
-            <element signature="e#80428#80475#0" expanded="true" />
+            <element signature="e#73526#73669#0" expanded="true" />
+            <element signature="e#73668#73669#0" expanded="true" />
+            <element signature="e#75390#75419#0" expanded="true" />
+            <element signature="e#75509#75551#0" expanded="true" />
+            <element signature="e#75615#75653#0" expanded="true" />
+            <element signature="e#75738#75768#0" expanded="true" />
+            <element signature="e#76598#76629#0" expanded="true" />
+            <element signature="e#76669#76706#0" expanded="true" />
+            <element signature="e#76765#76801#0" expanded="true" />
+            <element signature="e#78904#78933#0" expanded="true" />
+            <element signature="e#78961#78989#0" expanded="true" />
+            <element signature="e#79072#79101#0" expanded="true" />
+            <element signature="e#79133#79161#0" expanded="true" />
+            <element signature="e#79682#79730#0" expanded="true" />
+            <element signature="e#79801#79849#0" expanded="true" />
+            <element signature="e#80278#80325#0" expanded="true" />
+            <element signature="e#80396#80443#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="450" column="9" lean-forward="false" selection-start-line="450" selection-start-column="9" selection-end-line="450" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/res/layout/sample_app_menu_layer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="34" />
-          <folding>
-            <element signature="e#939#966#0" expanded="true" />
-            <element signature="e#1062#1081#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
   </component>

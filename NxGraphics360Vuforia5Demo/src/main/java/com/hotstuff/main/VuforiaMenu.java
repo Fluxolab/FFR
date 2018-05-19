@@ -188,6 +188,9 @@ public class VuforiaMenu
                  showMenu();
              }
          }
+     } else {
+         // added by BL 20180519: force menu display
+         showMenu();
      }
      
      return result;

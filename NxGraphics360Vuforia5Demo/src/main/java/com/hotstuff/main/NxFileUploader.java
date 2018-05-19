@@ -114,7 +114,7 @@ public class NxFileUploader  extends AsyncTask<String, Void, Boolean> {
           BufferedReader rd = new BufferedReader(new InputStreamReader(conn.getInputStream()));
           String line;
           while ((line = rd.readLine()) != null) {
-              Log.e("Dialoge Box", "Message: " + line);
+              Log.e("Dialog Box", "Message: " + line);
           }
           rd.close();
 
