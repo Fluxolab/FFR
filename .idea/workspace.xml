@@ -12,668 +12,118 @@
   <component name="ChangeListManager">
     <list default="true" id="e7d70032-25ef-46b1-9df5-4389372f7456" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/generated/mockable-android-26.v3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/generated/source/buildConfig/androidTest/debug/com/hotstuff/main/test/BuildConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/generated/source/buildConfig/release/com/hotstuff/main/BuildConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/generated/source/r/androidTest/debug/com/hotstuff/main/test/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/generated/source/r/release/com/hotstuff/main/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/release/multi-v2/release.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/release/multi-v2/values.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/blame/res/release/single/release.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/build-info/debug/build-info.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example$14.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example$14.class" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/Example.class" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu$GestureListener.class" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu.class" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/debug/com/hotstuff/main/VuforiaMenu.class" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/AbstractURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/ApacheURLLister.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/BasicURLHandler$HttpStatus.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/BasicURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/CopyProgressEvent.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/CopyProgressListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/Credentials.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/CredentialsStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/FileUtil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/IvyAuthenticator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/URLHandler$URLInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/URLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/apache/ivy/URLHandlerRegistry.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/DownloadFilesTask$DownloadCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/DownloadFilesTask$DownloadFilesTaskMethod.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/DownloadFilesTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$10$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$10$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$11$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$3$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$4$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$PreviewCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$TakePictureTask$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example$TakePictureTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/Example.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/FileChooser$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/FileChooser$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/FileChooser$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/FileChooser$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/FileChooser$FileSelectedListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/FileChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/NxFileUploader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/NxVideoSurfaceView$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/NxVideoSurfaceView$VideoRender.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/NxVideoSurfaceView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/OgreActivityJNI.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaExceptions.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaFreeframe$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaFreeframe$STATUS.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaFreeframe.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaFreeframeGL$TEXTURE_NAME.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaFreeframeGL.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaGlView$ConfigChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaGlView$ContextFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaGlView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaLoadingDialogHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenu$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenu.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenuAnimator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenuGroup$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenuGroup$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenuGroup.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenuInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMenuView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMesh.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaMeshObject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaSession$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaSession$InitVuforiaTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaSession$LoadTrackerTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaSession.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaShaders.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaTargetRenderer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaTeapot$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaTeapot.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaTexture.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/classes/release/com/hotstuff/main/VuforiaUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/AbstractURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/ApacheURLLister.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/BasicURLHandler$HttpStatus.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/BasicURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/CopyProgressEvent.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/CopyProgressListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/Credentials.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/CredentialsStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/FileUtil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/IvyAuthenticator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/URLHandler$URLInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/URLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/apache/ivy/URLHandlerRegistry.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/DownloadFilesTask$DownloadCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/DownloadFilesTask$DownloadFilesTaskMethod.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/DownloadFilesTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$10$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$10$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$11$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$3$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$4$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$PreviewCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$TakePictureTask$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example$TakePictureTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/Example.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/FileChooser$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/FileChooser$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/FileChooser$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/FileChooser$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/FileChooser$FileSelectedListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/FileChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/NxFileUploader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/NxVideoSurfaceView$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/NxVideoSurfaceView$VideoRender.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/NxVideoSurfaceView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/OgreActivityJNI.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaExceptions.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaFreeframe$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaFreeframe$STATUS.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaFreeframe.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaFreeframeGL$TEXTURE_NAME.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaFreeframeGL.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaGlView$ConfigChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaGlView$ContextFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaGlView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaLoadingDialogHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenu.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenuAnimator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenuGroup$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenuGroup$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenuGroup.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenuInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMenuView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMesh.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaMeshObject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaSession$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaSession$InitVuforiaTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaSession$LoadTrackerTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaSession.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaShaders.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaTargetRenderer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaTeapot$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaTeapot.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaTexture.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental-verifier/debug/com/hotstuff/main/VuforiaUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_dep/debug/dependencies/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_0/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_1/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_2/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_3/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_4/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_5/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_6/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_7/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_8/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/ir_slices/debug/slice_9/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/debug/zip-cache/N24vF9xQA8MqQjSLMkZz1yr+Kfk=" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/_BV6dE5gk+11yVJyjvaqsNnycCo=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/file-input-save-data.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/166EXGbJVm+lwEW70DML1xf7Kfw=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageRelease/release/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageRelease/release/file-input-save-data.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageRelease/release/zip-cache/pwv6hPEQzq+rVPwmeUz8AInxQ88=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/release-mergeJavaRes/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/release-mergeJavaRes/zip-cache/nikvrbR8w4Nqbj2nF_sx5GyXzUg=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/release-mergeJniLibs/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/release-mergeJniLibs/zip-cache/nikvrbR8w4Nqbj2nF_sx5GyXzUg=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-apk/debug/NxGraphics360Vuforia5Demo-debug.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-apk/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-main-apk-res/debug/main_resources/resources_ap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-main-apk-res/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-resources/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/javaPrecompile/release/annotationProcessors.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/jniLibs/release/armeabi-v7a/libNxGraphics.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/jniLibs/release/armeabi-v7a/libVuforia.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest-checker/debug/manifest.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest-checker/debug/manifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifest/androidTest/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/density/release/output.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/166EXGbJVm+lwEW70DML1xf7Kfw=" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/full/release/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/manifests/instant-run/release/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/androidTest/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/drawable_camera_button_background.xml.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/drawable_ic_launcher.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/drawable_icon.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/drawable_icon_camera_normal.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/drawable_icon_camera_pressed.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/layout_camera_overlay_udt.xml.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/layout_sample_app_menu_group.xml.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/layout_sample_app_menu_group_divider.xml.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/layout_sample_app_menu_group_radio_button.xml.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/layout_sample_app_menu_layer.xml.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/merged/release/values_values.arsc.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/release/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/res/release/resources-release.ap_" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/resources/instant-run/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/resources/instant-run/debug/resources-debug.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/resources/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/splits-support/androidTest/debug/split-list.gson" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/splits-support/debug/split-list.gson" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/splits-support/release/split-list.gson" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dex/release/0/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dex/release/__content__.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/0.jar" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/1.jar" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/10/com/android/tools/ir/dummy/slice_1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/11/com/android/tools/ir/dummy/slice_2.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/android/tools/ir/dummy/slice_3.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/AbstractURLHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/ApacheURLLister.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/BasicURLHandler$HttpStatus.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/BasicURLHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/CopyProgressEvent.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/CopyProgressListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/Credentials.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/CredentialsStore.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/FileUtil.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/IvyAuthenticator.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/URLHandler$URLInfo.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/URLHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/apache/ivy/URLHandlerRegistry.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/BuildConfig.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/DownloadFilesTask$DownloadCallback.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/DownloadFilesTask$DownloadFilesTaskMethod.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/DownloadFilesTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$10$1$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$10$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$10.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$11$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$11.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$12.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$13.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$14.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$2.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$3$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$3.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$4$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$4.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$5.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$6.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$7.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$8.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$9.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$GestureListener$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$GestureListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$PreviewCallback.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$TakePictureTask$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example$TakePictureTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/Example.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/FileChooser$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/FileChooser$2.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/FileChooser$3.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/FileChooser$4.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/FileChooser$FileSelectedListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/FileChooser.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/NxFileUploader.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/NxVideoSurfaceView$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/NxVideoSurfaceView$VideoRender.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/NxVideoSurfaceView.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/OgreActivityJNI.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R$color.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R$dimen.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R$drawable.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R$id.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R$layout.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R$string.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R$style.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/R.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaControl.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaExceptions.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaFreeframe$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaFreeframe$STATUS.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaFreeframe.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaFreeframeGL$TEXTURE_NAME.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaFreeframeGL.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaGlView$ConfigChooser.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaGlView$ContextFactory.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaGlView.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaLoadingDialogHandler.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu$GestureListener$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu$GestureListener.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenu.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenuAnimator.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenuGroup$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenuGroup$2.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenuGroup.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenuInterface.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMenuView.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMesh.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMeshObject$BUFFER_TYPE.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaMeshObject.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaSession$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaSession$InitVuforiaTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaSession$LoadTrackerTask.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaSession.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaShaders.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaTargetRenderer.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaTeapot$1.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaTeapot.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaTexture.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/12/com/hotstuff/main/VuforiaUtils.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/13/com/android/tools/ir/dummy/slice_4.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/14/com/android/tools/ir/dummy/slice_5.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/15/com/android/tools/ir/dummy/slice_6.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/16/com/android/tools/ir/dummy/slice_7.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/17/com/android/tools/ir/dummy/slice_8.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/18/com/android/tools/ir/dummy/slice_9.dex" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/2.jar" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/9/com/android/tools/ir/dummy/slice_0.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/AbstractURLHandler.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/ApacheURLLister.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/BasicURLHandler$HttpStatus.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/BasicURLHandler.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/CopyProgressEvent.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/CopyProgressListener.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/Credentials.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/CredentialsStore.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/FileUtil.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/IvyAuthenticator.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/URLHandler$URLInfo.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/URLHandler.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/apache/ivy/URLHandlerRegistry.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/BuildConfig.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/DownloadFilesTask$DownloadCallback.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/DownloadFilesTask$DownloadFilesTaskMethod.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/DownloadFilesTask.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$10$1$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$10$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$10.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$11$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$11.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$12.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$13.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$14.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$3$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$3.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$4$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$4.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$5.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$6.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$7.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$8.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$9.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$GestureListener$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$GestureListener.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$PreviewCallback.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$TakePictureTask$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example$TakePictureTask.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/Example.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/FileChooser$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/FileChooser$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/FileChooser$3.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/FileChooser$4.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/FileChooser$FileSelectedListener.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/FileChooser.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/NxFileUploader.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/NxVideoSurfaceView$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/NxVideoSurfaceView$VideoRender.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/NxVideoSurfaceView.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/OgreActivityJNI.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R$color.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R$dimen.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R$drawable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R$id.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R$layout.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R$string.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R$style.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaControl.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaExceptions.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaFreeframe$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaFreeframe$STATUS.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaFreeframe.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaFreeframeGL$TEXTURE_NAME.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaFreeframeGL.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaGlView$ConfigChooser.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaGlView$ContextFactory.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaGlView.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaLoadingDialogHandler.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenu$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenu.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenuAnimator.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenuGroup$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenuGroup$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenuGroup.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenuInterface.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMenuView.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMesh.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMeshObject$BUFFER_TYPE.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaMeshObject.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaSession$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaSession$InitVuforiaTask.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaSession$LoadTrackerTask.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaSession.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaShaders.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaTargetRenderer.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaTeapot$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaTeapot.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaTexture.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/3/com/hotstuff/main/VuforiaUtils.dex" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/12/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/13/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/14/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/dexMerger/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/extractJars/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/AbstractURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/ApacheURLLister.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/BasicURLHandler$HttpStatus.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/BasicURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/CopyProgressEvent.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/CopyProgressListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/Credentials.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/CredentialsStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/FileUtil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/IvyAuthenticator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/URLHandler$URLInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/URLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/apache/ivy/URLHandlerRegistry.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/DownloadFilesTask$DownloadCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/DownloadFilesTask$DownloadFilesTaskMethod.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/DownloadFilesTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$10$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$10$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$11$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$3$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$4$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$PreviewCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$TakePictureTask$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example$TakePictureTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/Example.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/FileChooser$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/FileChooser$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/FileChooser$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/FileChooser$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/FileChooser$FileSelectedListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/FileChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/NxFileUploader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/NxVideoSurfaceView$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/NxVideoSurfaceView$VideoRender.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/NxVideoSurfaceView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/OgreActivityJNI.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaExceptions.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaFreeframe$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaFreeframe$STATUS.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaFreeframe.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaFreeframeGL$TEXTURE_NAME.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaFreeframeGL.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaGlView$ConfigChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaGlView$ContextFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaGlView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaLoadingDialogHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenu.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenuAnimator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenuGroup$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenuGroup$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenuGroup.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenuInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMenuView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMesh.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaMeshObject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaSession$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaSession$InitVuforiaTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaSession$LoadTrackerTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaSession.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaShaders.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaTargetRenderer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaTeapot$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaTeapot.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaTexture.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/0/com/hotstuff/main/VuforiaUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunDependenciesApk/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/0/com/android/tools/ir/dummy/slice_0.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/1/com/android/tools/ir/dummy/slice_1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/2/com/android/tools/ir/dummy/slice_2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/android/tools/ir/dummy/slice_3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/AbstractURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/ApacheURLLister.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/BasicURLHandler$HttpStatus.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/BasicURLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/CopyProgressEvent.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/CopyProgressListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/Credentials.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/CredentialsStore.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/FileUtil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/IvyAuthenticator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/URLHandler$URLInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/URLHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/apache/ivy/URLHandlerRegistry.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/DownloadFilesTask$DownloadCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/DownloadFilesTask$DownloadFilesTaskMethod.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/DownloadFilesTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$10$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$10$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$11$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$3$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$4$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$PreviewCallback.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$TakePictureTask$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example$TakePictureTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/Example.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/FileChooser$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/FileChooser$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/FileChooser$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/FileChooser$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/FileChooser$FileSelectedListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/FileChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/NxFileUploader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/NxVideoSurfaceView$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/NxVideoSurfaceView$VideoRender.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/NxVideoSurfaceView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/OgreActivityJNI.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaExceptions.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaFreeframe$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaFreeframe$STATUS.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaFreeframe.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaFreeframeGL$TEXTURE_NAME.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaFreeframeGL.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaGlView$ConfigChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaGlView$ContextFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaGlView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaLoadingDialogHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenu.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenuAnimator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenuGroup$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenuGroup$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenuGroup.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenuInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMenuView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMesh.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaMeshObject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaSession$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaSession$InitVuforiaTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaSession$LoadTrackerTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaSession.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaShaders.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaTargetRenderer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaTeapot$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaTeapot.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaTexture.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/3/com/hotstuff/main/VuforiaUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/4/com/android/tools/ir/dummy/slice_4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/5/com/android/tools/ir/dummy/slice_5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/6/com/android/tools/ir/dummy/slice_6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/7/com/android/tools/ir/dummy/slice_7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/8/com/android/tools/ir/dummy/slice_8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/9/com/android/tools/ir/dummy/slice_9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/instantRunSlicesApk/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJavaRes/release/0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJavaRes/release/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libNxGraphics.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libVuforia.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/mergeJniLibs/release/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/preDex/release/0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/preDex/release/1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/preDex/release/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/stripDebugSymbol/release/0/lib/armeabi-v7a/libNxGraphics.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/stripDebugSymbol/release/0/lib/armeabi-v7a/libVuforia.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/intermediates/transforms/stripDebugSymbol/release/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/apk/debug/NxGraphics360Vuforia5Demo-debug.apk" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/apk/debug/NxGraphics360Vuforia5Demo-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/apk/debug/output.json" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/apk/debug/output.json" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/apk/release/NxGraphics360Vuforia5Demo-release-unsigned.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/apk/release/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/outputs/logs/manifest-merger-release-report.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/reports/lint-results-release-fatal.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/build/reports/lint-results-release-fatal.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java" />
       <change beforePath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java" afterPath="$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java" />
     </list>
@@ -697,80 +147,15 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.45238096">
+    <splitter split-orientation="horizontal" split-proportion="0.5595238">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="291">
-                  <caret line="2006" column="0" lean-forward="false" selection-start-line="2006" selection-start-column="0" selection-end-line="2006" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#8555#8563#0" expanded="true" />
-                    <element signature="e#8626#8634#0" expanded="true" />
-                    <element signature="e#8851#8866#0" expanded="true" />
-                    <element signature="e#8918#8926#0" expanded="true" />
-                    <element signature="e#8971#8977#0" expanded="true" />
-                    <element signature="e#14474#14655#0" expanded="true" />
-                    <element signature="e#14654#14655#0" expanded="true" />
-                    <element signature="e#20269#20460#0" expanded="true" />
-                    <element signature="e#20459#20460#0" expanded="true" />
-                    <element signature="e#21571#22777#0" expanded="true" />
-                    <element signature="e#21736#22745#0" expanded="true" />
-                    <element signature="e#22744#22745#0" expanded="true" />
-                    <element signature="e#22776#22777#0" expanded="true" />
-                    <element signature="e#23912#24783#0" expanded="true" />
-                    <element signature="e#24077#24751#0" expanded="true" />
-                    <element signature="e#24750#24751#0" expanded="true" />
-                    <element signature="e#24782#24783#0" expanded="true" />
-                    <element signature="e#25863#26016#0" expanded="true" />
-                    <element signature="e#26015#26016#0" expanded="true" />
-                    <element signature="e#26613#27177#0" expanded="true" />
-                    <element signature="e#27176#27177#0" expanded="true" />
-                    <element signature="e#27302#28422#0" expanded="true" />
-                    <element signature="e#28421#28422#0" expanded="true" />
-                    <element signature="e#28469#28626#0" expanded="true" />
-                    <element signature="e#28625#28626#0" expanded="true" />
-                    <element signature="e#28674#28811#0" expanded="true" />
-                    <element signature="e#28810#28811#0" expanded="true" />
-                    <element signature="e#31577#31585#0" expanded="true" />
-                    <element signature="e#31955#31963#0" expanded="true" />
-                    <element signature="e#43357#49397#0" expanded="true" />
-                    <element signature="e#43458#49350#0" expanded="true" />
-                    <element signature="e#47124#47130#0" expanded="true" />
-                    <element signature="e#47365#47670#0" expanded="true" />
-                    <element signature="e#47669#47670#0" expanded="true" />
-                    <element signature="e#49349#49350#0" expanded="true" />
-                    <element signature="e#49396#49397#0" expanded="true" />
-                    <element signature="e#50155#50251#0" expanded="true" />
-                    <element signature="e#50250#50251#0" expanded="true" />
-                    <element signature="e#52075#52515#0" expanded="true" />
-                    <element signature="e#52514#52515#0" expanded="true" />
-                    <element signature="e#53374#53560#0" expanded="true" />
-                    <element signature="e#53559#53560#0" expanded="true" />
-                    <element signature="e#53642#53671#0" expanded="true" />
-                    <element signature="e#53723#53769#0" expanded="true" />
-                    <element signature="e#53806#53851#0" expanded="true" />
-                    <element signature="e#54118#54245#0" expanded="true" />
-                    <element signature="e#54244#54245#0" expanded="true" />
-                    <element signature="e#73526#73669#0" expanded="true" />
-                    <element signature="e#73668#73669#0" expanded="true" />
-                    <element signature="e#75395#75424#0" expanded="true" />
-                    <element signature="e#75514#75556#0" expanded="true" />
-                    <element signature="e#75620#75658#0" expanded="true" />
-                    <element signature="e#75743#75773#0" expanded="true" />
-                    <element signature="e#76603#76634#0" expanded="true" />
-                    <element signature="e#76674#76711#0" expanded="true" />
-                    <element signature="e#76770#76806#0" expanded="true" />
-                    <element signature="e#78909#78938#0" expanded="true" />
-                    <element signature="e#78966#78994#0" expanded="true" />
-                    <element signature="e#79077#79106#0" expanded="true" />
-                    <element signature="e#79138#79166#0" expanded="true" />
-                    <element signature="e#79687#79735#0" expanded="true" />
-                    <element signature="e#79806#79854#0" expanded="true" />
-                    <element signature="e#80283#80330#0" expanded="true" />
-                    <element signature="e#80401#80448#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="34">
+                  <caret line="2296" column="0" lean-forward="false" selection-start-line="2296" selection-start-column="0" selection-end-line="2300" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -795,18 +180,18 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="VuforiaMenu.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="VuforiaMenu.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-723">
-                  <caret line="341" column="17" lean-forward="false" selection-start-line="341" selection-start-column="17" selection-end-line="341" selection-end-column="17" />
+                <state relative-caret-position="253">
+                  <caret line="190" column="5" lean-forward="false" selection-start-line="190" selection-start-column="5" selection-end-line="190" selection-end-column="5" />
                   <folding>
-                    <element signature="e#7193#7194#0" expanded="true" />
-                    <element signature="e#7227#7228#0" expanded="true" />
-                    <element signature="e#7269#7270#0" expanded="true" />
-                    <element signature="e#7306#7307#0" expanded="true" />
-                    <element signature="e#14288#14289#0" expanded="true" />
-                    <element signature="e#14323#14324#0" expanded="true" />
+                    <element signature="e#7109#7110#0" expanded="true" />
+                    <element signature="e#7143#7144#0" expanded="true" />
+                    <element signature="e#7185#7186#0" expanded="true" />
+                    <element signature="e#7222#7223#0" expanded="true" />
+                    <element signature="e#13946#13947#0" expanded="true" />
+                    <element signature="e#13981#13982#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -872,8 +257,8 @@
           <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="189">
-                  <caret line="2502" column="8" lean-forward="false" selection-start-line="2502" selection-start-column="8" selection-end-line="2502" selection-end-column="8" />
+                <state relative-caret-position="142">
+                  <caret line="1999" column="0" lean-forward="false" selection-start-line="1999" selection-start-column="0" selection-end-line="1999" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -898,6 +283,7 @@
       <find>Dialoge</find>
       <find>ShowDialog</find>
       <find>gestu</find>
+      <find>BL</find>
     </findStrings>
     <dirStrings>
       <dir>C:\SophiaDigitalArt\FFR\NxGraphics360Vuforia5Demo</dir>
@@ -3279,13 +2665,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java</url>
-          <line>2142</line>
+          <line>2136</line>
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java</url>
-          <line>2563</line>
+          <line>2578</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
@@ -3596,23 +2982,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/VuforiaMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-723">
-          <caret line="341" column="17" lean-forward="false" selection-start-line="341" selection-start-column="17" selection-end-line="341" selection-end-column="17" />
+        <state relative-caret-position="253">
+          <caret line="190" column="5" lean-forward="false" selection-start-line="190" selection-start-column="5" selection-end-line="190" selection-end-column="5" />
           <folding>
-            <element signature="e#7193#7194#0" expanded="true" />
-            <element signature="e#7227#7228#0" expanded="true" />
-            <element signature="e#7269#7270#0" expanded="true" />
-            <element signature="e#7306#7307#0" expanded="true" />
-            <element signature="e#14288#14289#0" expanded="true" />
-            <element signature="e#14323#14324#0" expanded="true" />
+            <element signature="e#7109#7110#0" expanded="true" />
+            <element signature="e#7143#7144#0" expanded="true" />
+            <element signature="e#7185#7186#0" expanded="true" />
+            <element signature="e#7222#7223#0" expanded="true" />
+            <element signature="e#13946#13947#0" expanded="true" />
+            <element signature="e#13981#13982#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NxGraphics360Vuforia5Demo/src/main/java/com/hotstuff/main/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="2502" column="8" lean-forward="false" selection-start-line="2502" selection-start-column="8" selection-end-line="2502" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2296" column="0" lean-forward="false" selection-start-line="2296" selection-start-column="0" selection-end-line="2300" selection-end-column="0" />
           <folding />
         </state>
       </provider>
