@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 19
     buildToolsVersion "27.0.3"
 
-    useLibrary 'org.apache.http.legacy'
+
 
     sourceSets.main {
         jniLibs.srcDir 'src/main/jniLibs'
@@ -14,8 +14,8 @@ android {
 
     defaultConfig {
         applicationId "com.hotstuff.main"
-        minSdkVersion 11
-        targetSdkVersion 11
+        minSdkVersion 19
+        targetSdkVersion 19
 
         ndk {
             moduleName "nxdevice"

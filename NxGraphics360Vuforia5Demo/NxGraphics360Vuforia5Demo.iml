@@ -22,7 +22,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/build/intermediates/classes/debug" />
     <output-test url="file://$MODULE_DIR$/build/intermediates/classes/test/debug" />
     <exclude-output />
@@ -113,10 +113,9 @@
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: __local_aars__:C.\SophiaDigitalArt\FFR\NxGraphics360Vuforia5Demo\libs\Vuforia.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="Gradle: android-android-26" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.http.legacy-android-26" level="project" />
+    <orderEntry type="library" name="Gradle: android-android-19" level="project" />
   </component>
 </module>
