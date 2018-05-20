@@ -691,7 +691,7 @@ final Activity mActivity = Example.this;
 
 		layMain.addView( layFirst );
 		
-		
+		/* BL
 		// MARKER
 		// MARKER LAYOUT
 		LinearLayout laySecond = new LinearLayout( mActivity );
@@ -811,7 +811,7 @@ final Activity mActivity = Example.this;
 		
 		layMain.addView( layThird );	
 		
-		
+		*/
 		// threshold distance
 		LinearLayout layFourth = new LinearLayout( mActivity );
 		layFourth.setLayoutParams(  new LinearLayout.LayoutParams( LayoutParams.MATCH_PARENT , LayoutParams.WRAP_CONTENT  ) );
